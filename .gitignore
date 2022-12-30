@@ -1,0 +1,9 @@
+# KiCad files
+fp-info-cache
+*.bak
+*-backups
+
+# Testing files for board fitment
+*.stl
+*.step
+
