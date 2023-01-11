@@ -140,7 +140,9 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      "pin_not_connected|2133600|215900|c8e44c2b-3787-46dc-aea5-e175dccfed6a|00000000-0000-0000-0000-000000000000"
+    ],
     "meta": {
       "version": 0
     },
@@ -335,7 +337,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "unannotated": "error",
@@ -345,8 +347,12 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_footprint_libs": [
+      "footprints"
+    ],
+    "pinned_symbol_libs": [
+      "lib_symbols"
+    ]
   },
   "meta": {
     "filename": "PC218.kicad_pro",
