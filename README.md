@@ -33,10 +33,10 @@ Photos
 ------
 
 PC218 v1.0:
-![Rear of PC218 board v1.0](img/Pc218_Rev1.0.jpg)
+![Rear of PC218 board v1.0](img/PC218_Rev1.0.png)
 
 PC218 v2.0:
-![Front of PC218 board v2.0](img/Pc218_Rev2.0_Front.jpg)
+![Front of PC218 board v2.0](img/PC218_Rev2.0_Front.png)
 
-![Rear of PC218 board v2.0](img/Pc218_Rev2.0_Rear.jpg)
+![Rear of PC218 board v2.0](img/PC218_Rev2.0_Rear.png)
 
