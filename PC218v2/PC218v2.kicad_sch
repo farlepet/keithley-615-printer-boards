@@ -5,9 +5,11 @@
   (paper "USLegal")
 
   (title_block
-    (title "Keithley 615 PC218 Replacement v2")
-    (rev "1.0")
+    (title "Keithley 615 PC218 Replacement Board")
+    (date "2023-01-10")
+    (rev "2.0")
     (company "Peter Farley")
+    (comment 1 "Rev 1: Initial design")
   )
 
   (lib_symbols
@@ -296,14 +298,14 @@
         )
       )
     )
-    (symbol "keithley_615_sym_library:PC218_BoardEdge_44pin" (in_bom yes) (on_board yes)
+    (symbol "lib_symbols:PC218_BoardEdge_44pin" (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at -1.27 0 0)
         (effects (font (size 1.27 1.27)))
       )
       (property "Value" "PC218_BoardEdge_44pin" (id 1) (at 0 -58.42 0)
         (effects (font (size 1.27 1.27)))
       )
-      (property "Footprint" "" (id 2) (at -1.27 0 0)
+      (property "Footprint" "footprints:PC218_Edge_Connector" (id 2) (at -1.27 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "Datasheet" "" (id 3) (at -1.27 0 0)
@@ -705,6 +707,11 @@
   (junction (at 326.39 111.76) (diameter 0) (color 0 0 0 0)
     (uuid f6558ec4-2179-4fc7-9077-66e9887bd6b6)
   )
+
+  (no_connect (at 275.59 26.67) (uuid 08fa569d-d3a7-4f47-873b-b0ee9b215a7d))
+  (no_connect (at 284.48 125.73) (uuid 397ffa8b-896d-42d2-82ea-604278dd5791))
+  (no_connect (at 284.48 111.76) (uuid a903e93a-5050-44e1-8266-89f00bad8d97))
+  (no_connect (at 284.48 97.79) (uuid ae249e9b-e279-4f93-97eb-b90da812407d))
 
   (wire (pts (xy 102.87 40.64) (xy 102.87 41.91))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -1931,12 +1938,12 @@
     (pin "2" (uuid 9648f37c-14f3-44bf-a2e6-3718987b5da6))
   )
 
-  (symbol (lib_id "keithley_615_sym_library:PC218_BoardEdge_44pin") (at 292.1 24.13 0) (unit 1)
+  (symbol (lib_id "lib_symbols:PC218_BoardEdge_44pin") (at 292.1 24.13 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 0b3e7a7c-ceb5-44cc-8e1c-4b20ca10ed23)
     (property "Reference" "J1" (id 0) (at 291.465 20.32 0))
     (property "Value" "PC218_BoardEdge_44pin" (id 1) (at 291.465 22.86 0))
-    (property "Footprint" "keithley_615_part_library:PC218_Edge_Connector" (id 2) (at 290.83 24.13 0)
+    (property "Footprint" "footprints:PC218_Edge_Connector" (id 2) (at 290.83 24.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 290.83 24.13 0)
@@ -3999,7 +4006,7 @@
       (reference "#PWR0136") (unit 1) (value "GND") (footprint "")
     )
     (path "/0b3e7a7c-ceb5-44cc-8e1c-4b20ca10ed23"
-      (reference "J1") (unit 1) (value "PC218_BoardEdge_44pin") (footprint "keithley_615_part_library:PC218_Edge_Connector")
+      (reference "J1") (unit 1) (value "PC218_BoardEdge_44pin") (footprint "footprints:PC218_Edge_Connector")
     )
     (path "/4446f63d-df20-417e-add3-680a46456664"
       (reference "Q1") (unit 1) (value "BC848W") (footprint "Package_TO_SOT_SMD:SOT-323_SC-70")
