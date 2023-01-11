@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>/home/farlepet/projects/electronics/test equipment/keithly_615_printer_board/PC218/PC218.kicad_sch</source>
+    <source>/home/farlepet/projects/electronics/test equipment/keithly_615_printer_board/PC218/PC218v2.kicad_sch</source>
     <date>Fri 30 Dec 2022 06:51:00 PM CST</date>
     <tool>Eeschema (6.0.10)</tool>
     <sheet number="1" name="/" tstamps="/">
@@ -10,7 +10,7 @@
         <company/>
         <rev/>
         <date/>
-        <source>PC218.kicad_sch</source>
+        <source>PC218v2.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
@@ -29,7 +29,7 @@
       <footprint>keithley_615_part_library:PC218_Edge_Connector</footprint>
       <libsource lib="keithley_615_sym_library" part="PC218_BoardEdge_44pin" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0b3e7a7c-ceb5-44cc-8e1c-4b20ca10ed23</tstamps>
     </comp>
@@ -39,7 +39,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4446f63d-df20-417e-add3-680a46456664</tstamps>
     </comp>
@@ -49,7 +49,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0eee38a2-ccf4-4b1f-afb2-5a9651a73be6</tstamps>
     </comp>
@@ -59,7 +59,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4db06b5c-578c-4400-aad3-07cfe775b98c</tstamps>
     </comp>
@@ -69,7 +69,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>11ab69ad-271b-446d-b25b-9a395fe87c94</tstamps>
     </comp>
@@ -79,7 +79,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>83e73316-a275-49a4-bc6b-1f025dfff9bc</tstamps>
     </comp>
@@ -89,7 +89,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>cc32d1ea-d065-44ba-850d-3482b63520c4</tstamps>
     </comp>
@@ -99,7 +99,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8282bd1a-f2bd-4ace-a563-412baea88924</tstamps>
     </comp>
@@ -109,7 +109,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d5e2500f-e65d-4f2a-b9a7-d56a7b371124</tstamps>
     </comp>
@@ -119,7 +119,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5b2e9111-15b5-4b3f-a187-2e9f877eb925</tstamps>
     </comp>
@@ -129,7 +129,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e502d860-e580-46c5-af71-4843434041e7</tstamps>
     </comp>
@@ -139,7 +139,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>52611607-7c9d-4dc4-862b-30ac4b072920</tstamps>
     </comp>
@@ -149,7 +149,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2d43acd1-6eb7-4cf9-88dd-f637c4d507b8</tstamps>
     </comp>
@@ -159,7 +159,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>29fcf1fc-0807-4e40-9359-1b9b83c5674a</tstamps>
     </comp>
@@ -169,7 +169,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4dd086b4-c6ed-4cbd-af3e-440d43b21933</tstamps>
     </comp>
@@ -179,7 +179,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f1f39f0b-e095-4fbe-81b1-93fe6f23e7bf</tstamps>
     </comp>
@@ -189,7 +189,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e179e7d7-7535-4f41-bc10-45726f7b5214</tstamps>
     </comp>
@@ -199,7 +199,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ef10e1c7-6c82-4182-8217-fbd8e102abf5</tstamps>
     </comp>
@@ -209,7 +209,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>66853e39-e4a6-4d1d-a72b-e7ae9f9d782c</tstamps>
     </comp>
@@ -219,7 +219,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e62fd792-cad4-44f3-b415-a2033a7a26ee</tstamps>
     </comp>
@@ -229,7 +229,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f5db66f4-592c-458f-ac07-6393db1cb865</tstamps>
     </comp>
@@ -239,7 +239,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5b1b5feb-3f2d-4732-afab-88f2fa878c51</tstamps>
     </comp>
@@ -249,7 +249,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>914afdfd-1d49-4740-9513-c3405132c3f7</tstamps>
     </comp>
@@ -259,7 +259,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>42a5d254-6511-4469-89af-1678be482f14</tstamps>
     </comp>
@@ -269,7 +269,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>49cba6f4-c4ca-489f-87e3-da45e761350f</tstamps>
     </comp>
@@ -279,7 +279,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>446966e5-6995-481a-8bd1-67f03bf80d7e</tstamps>
     </comp>
@@ -289,7 +289,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3c4c91fc-c4c7-41b2-bf73-3cd9553950e9</tstamps>
     </comp>
@@ -299,7 +299,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>27792ebe-b7cf-4b0b-9381-ddd802b28bf9</tstamps>
     </comp>
@@ -309,7 +309,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>74eadfa6-9b03-404b-93b7-2d57e1281328</tstamps>
     </comp>
@@ -319,7 +319,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>12ecc6b1-2d49-4f9a-a8a5-7ef84fbcee87</tstamps>
     </comp>
@@ -329,7 +329,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ebffd14c-1a56-4648-ab46-d8dcecfe8181</tstamps>
     </comp>
@@ -339,7 +339,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1315a608-f45e-4732-bf12-3c8941fc4350</tstamps>
     </comp>
@@ -349,7 +349,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e7ae8734-3017-4d51-89f0-f168786fd1ba</tstamps>
     </comp>
@@ -359,7 +359,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>beadf143-63a8-490b-8250-86fa62456735</tstamps>
     </comp>
@@ -369,7 +369,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e28777ed-ddf2-4418-9068-49433e502e5a</tstamps>
     </comp>
@@ -379,7 +379,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2a396143-e768-4fdb-9dc5-a138d7b801e1</tstamps>
     </comp>
@@ -389,7 +389,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>64fed69a-4278-498f-9e8f-0743a97ba829</tstamps>
     </comp>
@@ -399,7 +399,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>7a59fbe6-28e4-4c46-b2d6-46ed9ccad6fb</tstamps>
     </comp>
@@ -409,7 +409,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>122e5c2a-f920-44da-9c84-8bed6f887ef6</tstamps>
     </comp>
@@ -419,7 +419,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5d9f3b4d-a28b-45df-ac9c-9d290fa4acb7</tstamps>
     </comp>
@@ -429,7 +429,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>328244cb-d92e-4f19-8406-517a55de327b</tstamps>
     </comp>
@@ -439,7 +439,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>af556937-d8a1-415c-b9ee-b25550e6d529</tstamps>
     </comp>
@@ -449,7 +449,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>cde2fc22-6d48-4b55-b678-1a3256f1ad5f</tstamps>
     </comp>
@@ -459,7 +459,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c1970ff6-9c4a-483a-8b4b-ef7fa9a766ec</tstamps>
     </comp>
@@ -469,7 +469,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f1089af2-b6f2-4e2d-85a0-045caedb3793</tstamps>
     </comp>
@@ -479,7 +479,7 @@
       <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
       <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d3a69f95-ef11-4772-ad31-fe243bd9613d</tstamps>
     </comp>
@@ -488,7 +488,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>086abf78-7fba-495b-a7d7-7b03738f3811</tstamps>
     </comp>
@@ -497,7 +497,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ad1901f4-80cc-4f51-97a7-1b433b995e58</tstamps>
     </comp>
@@ -506,7 +506,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b2db6210-c803-4240-b77b-332f866e6571</tstamps>
     </comp>
@@ -515,7 +515,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e7018286-bc1a-45e3-96bd-d8680994b83b</tstamps>
     </comp>
@@ -524,7 +524,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>695348c1-836b-4f37-b12c-0287423fa6b4</tstamps>
     </comp>
@@ -533,7 +533,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>024ee8c5-71cb-40ca-a88a-d6205372fbcc</tstamps>
     </comp>
@@ -542,7 +542,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>beee4074-8b02-4843-b009-23ed9df46dff</tstamps>
     </comp>
@@ -551,7 +551,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>559141e8-6bb5-4f42-afab-2cce24db66e4</tstamps>
     </comp>
@@ -560,7 +560,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>54b5dd93-0dc6-4d78-8880-af9963b5a225</tstamps>
     </comp>
@@ -569,7 +569,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>41ba615a-7091-45c2-ba5c-a5e4dd056768</tstamps>
     </comp>
@@ -578,7 +578,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>cde9d908-5857-4fcd-a227-1ac501119e13</tstamps>
     </comp>
@@ -587,7 +587,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a378c90a-0db5-49ec-b622-bcd3eeaa8173</tstamps>
     </comp>
@@ -596,7 +596,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>59f92899-7aba-4799-ad0a-3e50b25d29b2</tstamps>
     </comp>
@@ -605,7 +605,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d674df62-ee6d-43b2-bd2f-bf45cfae1a77</tstamps>
     </comp>
@@ -614,7 +614,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>be919376-00d3-408b-b774-76d91767d2f6</tstamps>
     </comp>
@@ -623,7 +623,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6d224c82-5940-4949-8963-65bd1f6d794e</tstamps>
     </comp>
@@ -632,7 +632,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>239d58db-1bf1-4ce1-b07a-66cc7b5b4e24</tstamps>
     </comp>
@@ -641,7 +641,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>56f76dc6-e564-488b-ae90-a1d830230598</tstamps>
     </comp>
@@ -650,7 +650,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6601ed7a-fa93-464c-9760-174056e5b07f</tstamps>
     </comp>
@@ -659,7 +659,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d45897f0-5bf1-428e-986d-e40d7e1f7461</tstamps>
     </comp>
@@ -668,7 +668,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c7ef97af-c6b6-4892-8c22-062f162e763e</tstamps>
     </comp>
@@ -677,7 +677,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>eb261fdc-1dc1-4325-a3aa-aae694d58850</tstamps>
     </comp>
@@ -686,7 +686,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>706ec266-d26a-4357-bbe3-09e2f3bb4f70</tstamps>
     </comp>
@@ -695,7 +695,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>09cc19c2-8c6a-486e-a003-b987b563460f</tstamps>
     </comp>
@@ -704,7 +704,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b4758578-dd19-4e60-832e-9319cb9985df</tstamps>
     </comp>
@@ -713,7 +713,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e655de6a-6890-413d-b492-e3e9ca849a23</tstamps>
     </comp>
@@ -722,7 +722,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>9cafd33c-8fc1-415a-80a9-824c62edf128</tstamps>
     </comp>
@@ -731,7 +731,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ed8b87e4-90e8-42f5-bd1a-a58f963b9a57</tstamps>
     </comp>
@@ -740,7 +740,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ccbe36e5-a33e-4cf9-82f6-5e96df236795</tstamps>
     </comp>
@@ -749,7 +749,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3f2fbb06-226f-4a94-83d9-2f137f8e3e07</tstamps>
     </comp>
@@ -758,7 +758,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ce509f0a-5349-43a6-94a0-172c4541c5a0</tstamps>
     </comp>
@@ -767,7 +767,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>95f0bda7-a8ae-451a-b6cc-3236ac9e4e7e</tstamps>
     </comp>
@@ -776,7 +776,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6a362d56-27f2-483e-b415-17407defa852</tstamps>
     </comp>
@@ -785,7 +785,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>446c7036-5ef0-4d87-98d6-d50dc63fed4e</tstamps>
     </comp>
@@ -794,7 +794,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>7b86bb5f-04f0-43e5-a2eb-71f0c8acc70b</tstamps>
     </comp>
@@ -803,7 +803,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8c6922d0-373a-4bd3-812e-4f53e0b4053e</tstamps>
     </comp>
@@ -812,7 +812,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a56c92d5-4f95-429d-923f-5d6b1a97072a</tstamps>
     </comp>
@@ -821,7 +821,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b2cfe686-6bc5-4de4-8179-c586a3513177</tstamps>
     </comp>
@@ -830,7 +830,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1e95a775-0697-4dee-b083-0417aa9904f0</tstamps>
     </comp>
@@ -839,7 +839,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>311c71fa-32c9-44d1-bf4a-7d7a9708cd4c</tstamps>
     </comp>
@@ -848,7 +848,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>771cd916-fc1c-4651-ac57-2bb1cc0c324e</tstamps>
     </comp>
@@ -857,7 +857,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a37b3036-7c67-4ebf-a102-b12122f84623</tstamps>
     </comp>
@@ -866,7 +866,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b9a44403-09a3-44f1-86df-d85e6d05eda2</tstamps>
     </comp>
@@ -875,7 +875,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>81c5a044-1153-4048-81f0-52f168883421</tstamps>
     </comp>
@@ -884,7 +884,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>93f60c97-1161-48aa-8d3d-20c81c50916e</tstamps>
     </comp>
@@ -893,7 +893,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5f70e0a4-4e15-4ffb-8183-580e5c398d69</tstamps>
     </comp>
@@ -902,7 +902,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>899b6b8b-887b-4e51-93c3-2ce2043f7911</tstamps>
     </comp>
@@ -911,7 +911,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>539ae013-b317-4d31-9633-bf26acd8f67f</tstamps>
     </comp>
@@ -920,7 +920,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8cec6a9c-eb50-4ff9-af49-567aa53f5456</tstamps>
     </comp>
@@ -929,7 +929,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>83c8a263-67d3-49b7-b259-b5d4b8f9c970</tstamps>
     </comp>
@@ -938,7 +938,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0ac4bd20-b98e-488a-9cc9-9c5dd9ed6bf9</tstamps>
     </comp>
@@ -947,7 +947,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>9a129dc4-dfe4-48f6-b4e7-bb054cbe0d0b</tstamps>
     </comp>
@@ -956,7 +956,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b9c5ac3d-b4d0-4ddd-96a6-fe626db536f4</tstamps>
     </comp>
@@ -965,7 +965,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>33072c06-5267-41d2-b1f1-4491eef1642d</tstamps>
     </comp>
@@ -974,7 +974,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>7d9e51b5-b44e-4598-9e71-9a77191cd67f</tstamps>
     </comp>
@@ -983,7 +983,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>db83d8de-77d3-4c57-b85c-6183110946bd</tstamps>
     </comp>
@@ -992,7 +992,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2c0c5dba-396a-4502-92d3-d8b4e7ec63ac</tstamps>
     </comp>
@@ -1001,7 +1001,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c26cbb57-83b0-4fc3-9669-a39e07bdc97d</tstamps>
     </comp>
@@ -1010,7 +1010,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>746809a3-02fc-4a61-9108-5462610d66d0</tstamps>
     </comp>
@@ -1019,7 +1019,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="PC218.kicad_sch"/>
+      <property name="Sheetfile" value="PC218v2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>58fd9911-7a28-43dc-a09b-005b714e3729</tstamps>
     </comp>

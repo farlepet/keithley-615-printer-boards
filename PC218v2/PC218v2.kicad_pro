@@ -358,7 +358,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "PC218.kicad_pro",
+    "filename": "PC218v2.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -414,7 +414,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "PC218.step",
+      "step": "PC218v2.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

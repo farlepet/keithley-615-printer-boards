@@ -2,7 +2,13 @@
 
   (uuid 66d4604d-749c-4a6b-ac41-65575038ffee)
 
-  (paper "A3")
+  (paper "USLegal")
+
+  (title_block
+    (title "Keithley 615 PC218 Replacement v2")
+    (rev "1.0")
+    (company "Peter Farley")
+  )
 
   (lib_symbols
     (symbol "4xxx:4010" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
