@@ -1,7 +1,7 @@
 {
   "board": {
     "active_layer": 31,
-    "active_layer_preset": "",
+    "active_layer_preset": "Two Sides",
     "auto_track_width": true,
     "hidden_nets": [
       "GND",
@@ -67,7 +67,7 @@
       35,
       36
     ],
-    "visible_layers": "ffcffff_ffffffff",
+    "visible_layers": "ffcd030_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
