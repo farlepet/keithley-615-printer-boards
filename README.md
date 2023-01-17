@@ -15,9 +15,8 @@ Boards
  - PC209
    - Signal inverter/buffer and trigger board
    - Simplified version of the origional board can be found in the `PC209` directory
-     - A faithful recreation of the origional board would require sourcing old
-       parts that are no longer manufactured, or reducing the ICs down to
-       discrete transistor equivalents.
+     - Same inverter/buffer scheme as PC218v2, with the origional trigger pulse
+       generator and logic reduced down to discrete transistors, to simplify design.
  - Digital Interface Board
    - This will be a new board designed to connect to the 615 via the 50-pin
      Centronics connector
