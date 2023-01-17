@@ -2,6 +2,8 @@
 fp-info-cache
 *.bak
 *-backups
+*.log
+Board2Pdf
 
 # Testing files for board fitment
 *.stl
