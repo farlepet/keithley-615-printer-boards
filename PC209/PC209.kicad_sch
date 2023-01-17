@@ -1938,7 +1938,7 @@
   (symbol (lib_id "Transistor_BJT:BC848W") (at 44.45 125.73 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 010ef07a-92d7-40b9-9aa2-8c76bac6414e)
-    (property "Reference" "Q10" (id 0) (at 49.53 124.4599 0)
+    (property "Reference" "Q5" (id 0) (at 49.53 124.4599 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "BC848W" (id 1) (at 49.53 126.9999 0)
@@ -1958,7 +1958,7 @@
   (symbol (lib_id "Device:R_Small") (at 41.91 170.18 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 04b2b5dd-bb3e-49d7-9ee9-3a2b9c3ea332)
-    (property "Reference" "R31" (id 0) (at 41.91 172.72 90))
+    (property "Reference" "R8" (id 0) (at 41.91 172.72 90))
     (property "Value" "180k" (id 1) (at 41.91 167.64 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 41.91 170.18 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -1975,7 +1975,7 @@
     (uuid 09d4a0d2-409a-4454-a4ae-3644dc755146)
     (property "Reference" "U1" (id 0) (at 58.42 78.74 0))
     (property "Value" "4010" (id 1) (at 58.42 81.28 0))
-    (property "Footprint" "" (id 2) (at 58.42 87.63 0)
+    (property "Footprint" "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm" (id 2) (at 58.42 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/cd4010b-q1.pdf" (id 3) (at 58.42 87.63 0)
@@ -2035,7 +2035,7 @@
   (symbol (lib_id "Transistor_BJT:BC848W") (at 44.45 158.75 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 10e0d634-59f0-4589-81db-89c8009d1afd)
-    (property "Reference" "Q12" (id 0) (at 49.53 157.4799 0)
+    (property "Reference" "Q3" (id 0) (at 49.53 157.4799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "BC848W" (id 1) (at 49.53 160.0199 0)
@@ -2055,7 +2055,7 @@
   (symbol (lib_id "Device:R_Small") (at 111.76 102.87 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 1147eb2d-9c66-4348-a246-761db5da15d9)
-    (property "Reference" "R34" (id 0) (at 109.22 102.87 90))
+    (property "Reference" "R45" (id 0) (at 109.22 102.87 90))
     (property "Value" "1k" (id 1) (at 114.3 102.87 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 111.76 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2086,7 +2086,7 @@
   (symbol (lib_id "Device:R_Small") (at 36.83 16.51 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 171e3f32-59c8-49b6-84c5-44c46bb92710)
-    (property "Reference" "R40" (id 0) (at 40.64 15.24 90))
+    (property "Reference" "R36" (id 0) (at 40.64 15.24 90))
     (property "Value" "0" (id 1) (at 33.02 15.24 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 36.83 16.51 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2117,7 +2117,7 @@
   (symbol (lib_id "Transistor_BJT:BC848W") (at 121.92 39.37 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2317e70a-1f38-485e-bd70-907941867582)
-    (property "Reference" "Q15" (id 0) (at 127 38.0999 0)
+    (property "Reference" "Q9" (id 0) (at 127 38.0999 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "BC848W" (id 1) (at 127 40.6399 0)
@@ -2210,7 +2210,7 @@
   (symbol (lib_id "Transistor_BJT:BC848W") (at 44.45 175.26 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 311c44dc-4495-4e22-9010-317b30a085ed)
-    (property "Reference" "Q13" (id 0) (at 49.53 173.9899 0)
+    (property "Reference" "Q8" (id 0) (at 49.53 173.9899 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "BC848W" (id 1) (at 49.53 176.5299 0)
@@ -2248,7 +2248,7 @@
     (uuid 32ba3efe-85b2-4e8c-be68-194f53277b7b)
     (property "Reference" "U2" (id 0) (at 255.27 87.63 0))
     (property "Value" "4010" (id 1) (at 255.27 90.17 0))
-    (property "Footprint" "" (id 2) (at 255.27 96.52 0)
+    (property "Footprint" "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm" (id 2) (at 255.27 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/cd4010b-q1.pdf" (id 3) (at 255.27 96.52 0)
@@ -2274,7 +2274,7 @@
   (symbol (lib_id "Device:C_Small") (at 111.76 49.53 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 32e81622-246c-4c15-9537-a019cbae0682)
-    (property "Reference" "C7" (id 0) (at 111.76 45.72 90))
+    (property "Reference" "C2" (id 0) (at 111.76 45.72 90))
     (property "Value" "100 pF" (id 1) (at 111.76 52.07 90))
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 111.76 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2289,7 +2289,7 @@
   (symbol (lib_id "Device:R_Small") (at 41.91 87.63 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 36de68bf-1199-413b-83c5-e44e038c8b13)
-    (property "Reference" "R25" (id 0) (at 41.91 90.17 90))
+    (property "Reference" "R7" (id 0) (at 41.91 90.17 90))
     (property "Value" "180k" (id 1) (at 41.91 85.09 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 41.91 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2304,7 +2304,7 @@
   (symbol (lib_id "Device:R_Small") (at 135.89 72.39 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 39bf8a8d-bf1b-47ec-80b5-37145946485e)
-    (property "Reference" "R39" (id 0) (at 133.35 72.39 90))
+    (property "Reference" "R31" (id 0) (at 133.35 72.39 90))
     (property "Value" "120k" (id 1) (at 138.43 72.39 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 135.89 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2319,7 +2319,7 @@
   (symbol (lib_id "Transistor_BJT:BC848W") (at 118.11 64.77 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 3e0be20f-4175-4193-8d62-297eccf3f070)
-    (property "Reference" "Q14" (id 0) (at 116.84 62.23 0)
+    (property "Reference" "Q17" (id 0) (at 116.84 62.23 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "BC848W" (id 1) (at 116.84 67.31 0)
@@ -2339,7 +2339,7 @@
   (symbol (lib_id "Device:R_Small") (at 34.29 109.22 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 406dbf8c-9e3e-43b5-9e20-fa6422f7c36d)
-    (property "Reference" "R21" (id 0) (at 34.29 106.68 90))
+    (property "Reference" "R15" (id 0) (at 34.29 106.68 90))
     (property "Value" "120k" (id 1) (at 34.29 111.76 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 34.29 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2354,7 +2354,7 @@
   (symbol (lib_id "Transistor_BJT:BC848W") (at 128.27 64.77 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 408a265c-0ea6-45c5-912b-35b86dd58c1e)
-    (property "Reference" "Q17" (id 0) (at 129.54 62.23 0)
+    (property "Reference" "Q16" (id 0) (at 129.54 62.23 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "BC848W" (id 1) (at 129.54 67.31 0)
@@ -2392,7 +2392,7 @@
     (uuid 44dbe55c-1c4b-4a0b-b490-ba30f61fa6ce)
     (property "Reference" "U1" (id 0) (at 58.42 111.76 0))
     (property "Value" "4010" (id 1) (at 58.42 114.3 0))
-    (property "Footprint" "" (id 2) (at 58.42 120.65 0)
+    (property "Footprint" "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm" (id 2) (at 58.42 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/cd4010b-q1.pdf" (id 3) (at 58.42 120.65 0)
@@ -2452,7 +2452,7 @@
   (symbol (lib_id "Device:R_Small") (at 119.38 34.29 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 4ccb8d5e-bed8-4e00-9fa1-d43196117f77)
-    (property "Reference" "R36" (id 0) (at 119.38 36.83 90))
+    (property "Reference" "R19" (id 0) (at 119.38 36.83 90))
     (property "Value" "180k" (id 1) (at 119.38 31.75 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 119.38 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2505,7 +2505,7 @@
     (uuid 5ba6a804-2f1c-455b-b4fc-65671d1f043b)
     (property "Reference" "U2" (id 0) (at 138.43 49.53 0))
     (property "Value" "4010" (id 1) (at 138.43 52.07 0))
-    (property "Footprint" "" (id 2) (at 138.43 58.42 0)
+    (property "Footprint" "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm" (id 2) (at 138.43 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/cd4010b-q1.pdf" (id 3) (at 138.43 58.42 0)
@@ -2547,7 +2547,7 @@
   (symbol (lib_id "Device:R_Small") (at 34.29 142.24 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 5e272885-7cbe-47b3-a601-c0c563c316d6)
-    (property "Reference" "R23" (id 0) (at 34.29 139.7 90))
+    (property "Reference" "R13" (id 0) (at 34.29 139.7 90))
     (property "Value" "120k" (id 1) (at 34.29 144.78 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 34.29 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2564,7 +2564,7 @@
     (uuid 60817206-5309-4e9d-87bd-2ef88c23f86f)
     (property "Reference" "U1" (id 0) (at 58.42 128.27 0))
     (property "Value" "4010" (id 1) (at 58.42 130.81 0))
-    (property "Footprint" "" (id 2) (at 58.42 137.16 0)
+    (property "Footprint" "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm" (id 2) (at 58.42 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/cd4010b-q1.pdf" (id 3) (at 58.42 137.16 0)
@@ -2590,7 +2590,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 214.63 146.05 270) (unit 1)
     (in_bom no) (on_board yes)
     (uuid 6172b9a0-2c4f-46a6-9a81-086f9421cc60)
-    (property "Reference" "TP5" (id 0) (at 219.71 144.78 90)
+    (property "Reference" "TP3" (id 0) (at 219.71 144.78 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "15 V" (id 1) (at 219.71 148.59 90)
@@ -2652,7 +2652,7 @@
   (symbol (lib_id "Device:R_Small") (at 36.83 19.05 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 642261a0-9b80-405b-8ad6-d49dbabef0f8)
-    (property "Reference" "R41" (id 0) (at 40.64 17.78 90))
+    (property "Reference" "R37" (id 0) (at 40.64 17.78 90))
     (property "Value" "0" (id 1) (at 33.02 17.78 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 36.83 19.05 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2667,7 +2667,7 @@
   (symbol (lib_id "Device:R_Small") (at 34.29 158.75 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 660cfc21-5c81-42bd-b762-b39e0b431d49)
-    (property "Reference" "R24" (id 0) (at 34.29 156.21 90))
+    (property "Reference" "R12" (id 0) (at 34.29 156.21 90))
     (property "Value" "120k" (id 1) (at 34.29 161.29 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 34.29 158.75 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2682,7 +2682,7 @@
   (symbol (lib_id "Device:R_Small") (at 41.91 104.14 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 66c6a14b-c87a-4a72-b6b2-76b0aa4d3804)
-    (property "Reference" "R26" (id 0) (at 41.91 106.68 90))
+    (property "Reference" "R6" (id 0) (at 41.91 106.68 90))
     (property "Value" "180k" (id 1) (at 41.91 101.6 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 41.91 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2697,7 +2697,7 @@
   (symbol (lib_id "Device:R_Small") (at 123.19 91.44 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 670bdd6f-09fb-4496-a13e-4688e330c6dc)
-    (property "Reference" "R38" (id 0) (at 123.19 93.98 90))
+    (property "Reference" "R1" (id 0) (at 123.19 93.98 90))
     (property "Value" "180k" (id 1) (at 123.19 88.9 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 123.19 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2714,7 +2714,7 @@
     (uuid 6b55d087-ef6f-48fb-90ff-d9a5fe62c0dd)
     (property "Reference" "U2" (id 0) (at 255.27 115.57 0))
     (property "Value" "4010" (id 1) (at 255.27 118.11 0))
-    (property "Footprint" "" (id 2) (at 255.27 124.46 0)
+    (property "Footprint" "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm" (id 2) (at 255.27 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/cd4010b-q1.pdf" (id 3) (at 255.27 124.46 0)
@@ -2740,7 +2740,7 @@
   (symbol (lib_id "Transistor_BJT:BC848W") (at 44.45 109.22 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6eb4a736-750b-4fff-bd74-a2f7dc5d338f)
-    (property "Reference" "Q9" (id 0) (at 49.53 107.9499 0)
+    (property "Reference" "Q6" (id 0) (at 49.53 107.9499 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "BC848W" (id 1) (at 49.53 110.4899 0)
@@ -2760,7 +2760,7 @@
   (symbol (lib_id "Device:R_Small") (at 105.41 64.77 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 6f35f287-62ba-4c4b-b193-2eb138f79bda)
-    (property "Reference" "R32" (id 0) (at 105.41 62.23 90))
+    (property "Reference" "R35" (id 0) (at 105.41 62.23 90))
     (property "Value" "120k" (id 1) (at 105.41 67.31 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 105.41 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2775,7 +2775,7 @@
   (symbol (lib_id "Device:R_Small") (at 115.57 96.52 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 70518912-2fbc-4b82-89e3-0222c211dfbc)
-    (property "Reference" "R35" (id 0) (at 115.57 93.98 90))
+    (property "Reference" "R10" (id 0) (at 115.57 93.98 90))
     (property "Value" "120k" (id 1) (at 115.57 99.06 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 115.57 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2790,7 +2790,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 214.63 156.21 270) (unit 1)
     (in_bom no) (on_board yes)
     (uuid 72d430ef-dbeb-4e28-b6ef-ecafd51103df)
-    (property "Reference" "TP7" (id 0) (at 219.71 154.94 90)
+    (property "Reference" "TP1" (id 0) (at 219.71 154.94 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "GND" (id 1) (at 219.71 158.75 90)
@@ -2808,7 +2808,7 @@
   (symbol (lib_id "Device:R") (at 19.05 54.61 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 77755344-b6bf-44fe-b45a-334fc8bb01f6)
-    (property "Reference" "R2" (id 0) (at 21.59 53.3399 0)
+    (property "Reference" "R43" (id 0) (at 21.59 53.3399 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "6.04k" (id 1) (at 21.59 55.8799 0)
@@ -2827,7 +2827,7 @@
   (symbol (lib_id "Device:R_Small") (at 36.83 26.67 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 79364175-0f0e-4389-95e6-1874bbc1fb49)
-    (property "Reference" "R44" (id 0) (at 40.64 25.4 90))
+    (property "Reference" "R40" (id 0) (at 40.64 25.4 90))
     (property "Value" "0" (id 1) (at 33.02 25.4 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 36.83 26.67 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2890,7 +2890,7 @@
   (symbol (lib_id "Device:R") (at 19.05 44.45 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8d4f7722-7bdd-4159-93b9-e4a5d3396ac3)
-    (property "Reference" "R1" (id 0) (at 21.59 43.1799 0)
+    (property "Reference" "R42" (id 0) (at 21.59 43.1799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "6.98k" (id 1) (at 21.59 45.7199 0)
@@ -2943,7 +2943,7 @@
     (uuid 9b54939b-771a-412b-9c73-0e86e24e85d1)
     (property "Reference" "U2" (id 0) (at 139.7 82.55 0))
     (property "Value" "4010" (id 1) (at 139.7 85.09 0))
-    (property "Footprint" "" (id 2) (at 139.7 91.44 0)
+    (property "Footprint" "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm" (id 2) (at 139.7 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/cd4010b-q1.pdf" (id 3) (at 139.7 91.44 0)
@@ -2971,7 +2971,7 @@
     (uuid 9b6728c5-21a5-47d3-94fe-23a82ae37548)
     (property "Reference" "U2" (id 0) (at 255.27 101.6 0))
     (property "Value" "4010" (id 1) (at 255.27 104.14 0))
-    (property "Footprint" "" (id 2) (at 255.27 110.49 0)
+    (property "Footprint" "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm" (id 2) (at 255.27 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/cd4010b-q1.pdf" (id 3) (at 255.27 110.49 0)
@@ -2997,7 +2997,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 214.63 151.13 270) (unit 1)
     (in_bom no) (on_board yes)
     (uuid 9d827eef-28b1-432f-9f98-ce802d55d331)
-    (property "Reference" "TP6" (id 0) (at 219.71 149.86 90)
+    (property "Reference" "TP2" (id 0) (at 219.71 149.86 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "3.6 V" (id 1) (at 219.71 153.67 90)
@@ -3083,7 +3083,7 @@
   (symbol (lib_id "Device:R") (at 19.05 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ab29011c-2d1f-49ee-8fe6-939d5c48b203)
-    (property "Reference" "R3" (id 0) (at 21.59 63.4999 0)
+    (property "Reference" "R44" (id 0) (at 21.59 63.4999 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "2k" (id 1) (at 21.59 66.0399 0)
@@ -3102,7 +3102,7 @@
   (symbol (lib_id "Device:R_Small") (at 41.91 120.65 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid abb4a91c-ee7e-414d-8972-b475333a4c4a)
-    (property "Reference" "R27" (id 0) (at 41.91 123.19 90))
+    (property "Reference" "R5" (id 0) (at 41.91 123.19 90))
     (property "Value" "180k" (id 1) (at 41.91 118.11 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 41.91 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3133,7 +3133,7 @@
   (symbol (lib_id "Device:R_Small") (at 111.76 39.37 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid b8aed2a6-ec64-4326-9161-3e81b572942e)
-    (property "Reference" "R33" (id 0) (at 111.76 36.83 90))
+    (property "Reference" "R18" (id 0) (at 111.76 36.83 90))
     (property "Value" "120k" (id 1) (at 111.76 41.91 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 111.76 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3166,7 +3166,7 @@
   (symbol (lib_id "Device:R_Small") (at 41.91 137.16 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid cab1c052-49b7-49be-8593-a5d9da522689)
-    (property "Reference" "R28" (id 0) (at 41.91 139.7 90))
+    (property "Reference" "R4" (id 0) (at 41.91 139.7 90))
     (property "Value" "180k" (id 1) (at 41.91 134.62 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 41.91 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3183,7 +3183,7 @@
     (uuid d22254cb-d55d-4677-b39b-1d5fd6bb01bb)
     (property "Reference" "U1" (id 0) (at 140.97 140.97 90))
     (property "Value" "4010" (id 1) (at 140.97 143.51 90))
-    (property "Footprint" "" (id 2) (at 140.97 151.13 0)
+    (property "Footprint" "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm" (id 2) (at 140.97 151.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/cd4010b-q1.pdf" (id 3) (at 140.97 151.13 0)
@@ -3209,7 +3209,7 @@
   (symbol (lib_id "Device:R_Small") (at 41.91 153.67 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid d328afe4-8241-43fa-9b2b-30cf24ab3310)
-    (property "Reference" "R29" (id 0) (at 41.91 156.21 90))
+    (property "Reference" "R3" (id 0) (at 41.91 156.21 90))
     (property "Value" "180k" (id 1) (at 41.91 151.13 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 41.91 153.67 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3226,7 +3226,7 @@
     (uuid d3d8c83a-5605-4f82-bc13-d102d896f3d2)
     (property "Reference" "U2" (id 0) (at 138.43 25.4 0))
     (property "Value" "4010" (id 1) (at 138.43 27.94 0))
-    (property "Footprint" "" (id 2) (at 138.43 34.29 0)
+    (property "Footprint" "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm" (id 2) (at 138.43 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/cd4010b-q1.pdf" (id 3) (at 138.43 34.29 0)
@@ -3268,7 +3268,7 @@
   (symbol (lib_id "Device:R_Small") (at 36.83 29.21 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid d8061a5e-5668-49a6-b09f-584ff16b03c0)
-    (property "Reference" "R45" (id 0) (at 40.64 27.94 90))
+    (property "Reference" "R41" (id 0) (at 40.64 27.94 90))
     (property "Value" "0" (id 1) (at 33.02 27.94 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 36.83 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3311,7 +3311,7 @@
   (symbol (lib_id "Device:R_Small") (at 36.83 21.59 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid d94a77fc-5957-46ad-96c6-fb4ddae883bf)
-    (property "Reference" "R42" (id 0) (at 40.64 20.32 90))
+    (property "Reference" "R38" (id 0) (at 40.64 20.32 90))
     (property "Value" "0" (id 1) (at 33.02 20.32 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 36.83 21.59 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3328,7 +3328,7 @@
     (uuid da209b2a-623f-42f2-8f5a-7fa924a103a2)
     (property "Reference" "U1" (id 0) (at 58.42 144.78 0))
     (property "Value" "4010" (id 1) (at 58.42 147.32 0))
-    (property "Footprint" "" (id 2) (at 58.42 153.67 0)
+    (property "Footprint" "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm" (id 2) (at 58.42 153.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/cd4010b-q1.pdf" (id 3) (at 58.42 153.67 0)
@@ -3354,7 +3354,7 @@
   (symbol (lib_id "Device:R_Small") (at 123.19 54.61 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid dd38c9f8-a243-407d-af4d-ad682074e37f)
-    (property "Reference" "R37" (id 0) (at 125.73 54.61 90))
+    (property "Reference" "R32" (id 0) (at 125.73 54.61 90))
     (property "Value" "180k" (id 1) (at 120.65 54.61 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 123.19 54.61 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3385,7 +3385,7 @@
   (symbol (lib_id "Transistor_BJT:BC848W") (at 125.73 96.52 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e89449f1-1def-4008-8b83-f9d1a9d6c3a8)
-    (property "Reference" "Q16" (id 0) (at 130.81 95.2499 0)
+    (property "Reference" "Q1" (id 0) (at 130.81 95.2499 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "BC848W" (id 1) (at 130.81 97.7899 0)
@@ -3421,7 +3421,7 @@
   (symbol (lib_id "Transistor_BJT:BC848W") (at 44.45 92.71 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ecc61dbf-eda7-4011-ab2c-a1bf10919a6e)
-    (property "Reference" "Q8" (id 0) (at 49.53 91.4399 0)
+    (property "Reference" "Q7" (id 0) (at 49.53 91.4399 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "BC848W" (id 1) (at 49.53 93.9799 0)
@@ -3473,7 +3473,7 @@
   (symbol (lib_id "Device:R_Small") (at 36.83 24.13 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid ee6e163d-6be1-434a-be0c-5566a9522474)
-    (property "Reference" "R43" (id 0) (at 40.64 22.86 90))
+    (property "Reference" "R39" (id 0) (at 40.64 22.86 90))
     (property "Value" "0" (id 1) (at 33.02 22.86 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 36.83 24.13 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3490,7 +3490,7 @@
     (uuid f11c5a60-bd4f-475d-a033-df44d852ecf0)
     (property "Reference" "U1" (id 0) (at 58.42 95.25 0))
     (property "Value" "4010" (id 1) (at 58.42 97.79 0))
-    (property "Footprint" "" (id 2) (at 58.42 104.14 0)
+    (property "Footprint" "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm" (id 2) (at 58.42 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/cd4010b-q1.pdf" (id 3) (at 58.42 104.14 0)
@@ -3516,7 +3516,7 @@
   (symbol (lib_id "Device:R_Small") (at 34.29 175.26 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid f130a7cf-95f1-4dc9-8ee4-97ffa7f927c7)
-    (property "Reference" "R30" (id 0) (at 34.29 172.72 90))
+    (property "Reference" "R17" (id 0) (at 34.29 172.72 90))
     (property "Value" "120k" (id 1) (at 34.29 177.8 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 34.29 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3531,7 +3531,7 @@
   (symbol (lib_id "Device:R_Small") (at 34.29 125.73 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid f15515db-b99a-4700-b006-3aad3b255d02)
-    (property "Reference" "R22" (id 0) (at 34.29 123.19 90))
+    (property "Reference" "R14" (id 0) (at 34.29 123.19 90))
     (property "Value" "120k" (id 1) (at 34.29 128.27 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 34.29 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3564,7 +3564,7 @@
   (symbol (lib_id "Device:R_Small") (at 34.29 92.71 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid f31effa6-a93a-4ed4-aa30-e95624e9bd79)
-    (property "Reference" "R20" (id 0) (at 34.29 90.17 90))
+    (property "Reference" "R16" (id 0) (at 34.29 90.17 90))
     (property "Value" "120k" (id 1) (at 34.29 95.25 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 34.29 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3579,7 +3579,7 @@
   (symbol (lib_id "Transistor_BJT:BC848W") (at 44.45 142.24 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f9a8a24d-0d88-47cc-895e-edb2a9aadba7)
-    (property "Reference" "Q11" (id 0) (at 49.53 140.9699 0)
+    (property "Reference" "Q4" (id 0) (at 49.53 140.9699 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "BC848W" (id 1) (at 49.53 143.5099 0)
@@ -3767,275 +3767,275 @@
     (path "/e4bdca4f-538f-4085-9739-84187f28f8b6"
       (reference "#PWR0149") (unit 1) (value "+15V") (footprint "")
     )
-    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/de53374c-82c4-4235-83b9-10af35f6f0f7"
+    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/39022b4e-dd3a-4102-a53c-716c148d99e3"
       (reference "C1") (unit 1) (value "1 nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
-    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/39022b4e-dd3a-4102-a53c-716c148d99e3"
-      (reference "C2") (unit 1) (value "1 nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
-    )
-    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/f1d5a224-bdd9-4007-8fc7-def8e3622fea"
-      (reference "C3") (unit 1) (value "470 pF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+    (path "/32e81622-246c-4c15-9537-a019cbae0682"
+      (reference "C2") (unit 1) (value "100 pF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/e4151c4e-6e9d-4c2e-99d0-63cc7190471e"
-      (reference "C4") (unit 1) (value "100 nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
-    )
-    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/0b179a8c-60ba-4c1e-914a-a49bc5c34a7e"
-      (reference "C5") (unit 1) (value "470 pF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C3") (unit 1) (value "100 nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/edfe14db-7a50-4f87-8b7f-a6baba0f3d18"
-      (reference "C6") (unit 1) (value "3.3 nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C4") (unit 1) (value "3.3 nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
-    (path "/32e81622-246c-4c15-9537-a019cbae0682"
-      (reference "C7") (unit 1) (value "100 pF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/de53374c-82c4-4235-83b9-10af35f6f0f7"
+      (reference "C5") (unit 1) (value "1 nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+    )
+    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/f1d5a224-bdd9-4007-8fc7-def8e3622fea"
+      (reference "C6") (unit 1) (value "470 pF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+    )
+    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/0b179a8c-60ba-4c1e-914a-a49bc5c34a7e"
+      (reference "C7") (unit 1) (value "470 pF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/2bd5434e-d6ab-40d3-ae0f-3ca5eab6718d"
       (reference "J1") (unit 1) (value "PC209_BoardEdge_44pin") (footprint "footprints:PC209_Edge_Connector")
     )
-    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/4b9939f0-d762-4303-b49e-199a2fe9ae6f"
+    (path "/e89449f1-1def-4008-8b83-f9d1a9d6c3a8"
       (reference "Q1") (unit 1) (value "BC848W") (footprint "Package_TO_SOT_SMD:SOT-323_SC-70")
     )
-    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/cfec3ffa-374e-483d-96f7-d77dccdbfca6"
+    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/4b9939f0-d762-4303-b49e-199a2fe9ae6f"
       (reference "Q2") (unit 1) (value "BC848W") (footprint "Package_TO_SOT_SMD:SOT-323_SC-70")
     )
-    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/3de3c632-504e-410f-b354-9c085017029d"
+    (path "/10e0d634-59f0-4589-81db-89c8009d1afd"
       (reference "Q3") (unit 1) (value "BC848W") (footprint "Package_TO_SOT_SMD:SOT-323_SC-70")
     )
-    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/48bcb5a2-5674-40b8-8adf-cb5a409e80ea"
+    (path "/f9a8a24d-0d88-47cc-895e-edb2a9aadba7"
       (reference "Q4") (unit 1) (value "BC848W") (footprint "Package_TO_SOT_SMD:SOT-323_SC-70")
     )
-    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/bd304cf6-8bf8-46f9-a83c-0bad05da300a"
+    (path "/010ef07a-92d7-40b9-9aa2-8c76bac6414e"
       (reference "Q5") (unit 1) (value "BC848W") (footprint "Package_TO_SOT_SMD:SOT-323_SC-70")
     )
-    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/d76acf6f-0825-4395-98b5-710e2aed87b8"
+    (path "/6eb4a736-750b-4fff-bd74-a2f7dc5d338f"
       (reference "Q6") (unit 1) (value "BC848W") (footprint "Package_TO_SOT_SMD:SOT-323_SC-70")
     )
-    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/20c5b022-7179-4826-8e2a-7ae987abd9a7"
+    (path "/ecc61dbf-eda7-4011-ab2c-a1bf10919a6e"
       (reference "Q7") (unit 1) (value "BC848W") (footprint "Package_TO_SOT_SMD:SOT-323_SC-70")
     )
-    (path "/ecc61dbf-eda7-4011-ab2c-a1bf10919a6e"
+    (path "/311c44dc-4495-4e22-9010-317b30a085ed"
       (reference "Q8") (unit 1) (value "BC848W") (footprint "Package_TO_SOT_SMD:SOT-323_SC-70")
     )
-    (path "/6eb4a736-750b-4fff-bd74-a2f7dc5d338f"
+    (path "/2317e70a-1f38-485e-bd70-907941867582"
       (reference "Q9") (unit 1) (value "BC848W") (footprint "Package_TO_SOT_SMD:SOT-323_SC-70")
     )
-    (path "/010ef07a-92d7-40b9-9aa2-8c76bac6414e"
+    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/d76acf6f-0825-4395-98b5-710e2aed87b8"
       (reference "Q10") (unit 1) (value "BC848W") (footprint "Package_TO_SOT_SMD:SOT-323_SC-70")
     )
-    (path "/f9a8a24d-0d88-47cc-895e-edb2a9aadba7"
+    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/20c5b022-7179-4826-8e2a-7ae987abd9a7"
       (reference "Q11") (unit 1) (value "BC848W") (footprint "Package_TO_SOT_SMD:SOT-323_SC-70")
     )
-    (path "/10e0d634-59f0-4589-81db-89c8009d1afd"
+    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/bd304cf6-8bf8-46f9-a83c-0bad05da300a"
       (reference "Q12") (unit 1) (value "BC848W") (footprint "Package_TO_SOT_SMD:SOT-323_SC-70")
     )
-    (path "/311c44dc-4495-4e22-9010-317b30a085ed"
+    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/3de3c632-504e-410f-b354-9c085017029d"
       (reference "Q13") (unit 1) (value "BC848W") (footprint "Package_TO_SOT_SMD:SOT-323_SC-70")
     )
-    (path "/3e0be20f-4175-4193-8d62-297eccf3f070"
+    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/cfec3ffa-374e-483d-96f7-d77dccdbfca6"
       (reference "Q14") (unit 1) (value "BC848W") (footprint "Package_TO_SOT_SMD:SOT-323_SC-70")
     )
-    (path "/2317e70a-1f38-485e-bd70-907941867582"
+    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/48bcb5a2-5674-40b8-8adf-cb5a409e80ea"
       (reference "Q15") (unit 1) (value "BC848W") (footprint "Package_TO_SOT_SMD:SOT-323_SC-70")
     )
-    (path "/e89449f1-1def-4008-8b83-f9d1a9d6c3a8"
+    (path "/408a265c-0ea6-45c5-912b-35b86dd58c1e"
       (reference "Q16") (unit 1) (value "BC848W") (footprint "Package_TO_SOT_SMD:SOT-323_SC-70")
     )
-    (path "/408a265c-0ea6-45c5-912b-35b86dd58c1e"
+    (path "/3e0be20f-4175-4193-8d62-297eccf3f070"
       (reference "Q17") (unit 1) (value "BC848W") (footprint "Package_TO_SOT_SMD:SOT-323_SC-70")
     )
-    (path "/8d4f7722-7bdd-4159-93b9-e4a5d3396ac3"
-      (reference "R1") (unit 1) (value "6.98k") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/77755344-b6bf-44fe-b45a-334fc8bb01f6"
-      (reference "R2") (unit 1) (value "6.04k") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/ab29011c-2d1f-49ee-8fe6-939d5c48b203"
-      (reference "R3") (unit 1) (value "2k") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/e35bde1e-335d-4bff-ae9c-b54919004f87"
-      (reference "R4") (unit 1) (value "450") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/bcd76ecc-6c32-4e47-9590-4560e53b6cdd"
-      (reference "R5") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/84236397-93ea-4374-b8ac-bb0310df9c45"
-      (reference "R6") (unit 1) (value "450") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/3cc4a3c1-bc90-4ddd-a066-93f8a92184d9"
-      (reference "R7") (unit 1) (value "450") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/82cb216d-a56a-4a90-a2dc-a6e89c5c65f1"
-      (reference "R8") (unit 1) (value "640") (footprint "Resistor_SMD:R_0603_1608Metric")
+    (path "/670bdd6f-09fb-4496-a13e-4688e330c6dc"
+      (reference "R1") (unit 1) (value "180k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/3b0ee63d-4a6c-4fe9-bcc3-787167d09cf8"
-      (reference "R9") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/3f76aa89-e6d9-47c2-8eec-90aede772b36"
-      (reference "R10") (unit 1) (value "450") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/acd6f9ea-9518-472f-9e26-108e4d7a8081"
-      (reference "R11") (unit 1) (value "450") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/93054a4c-598c-4c37-8526-8bc62f4b9f6f"
-      (reference "R12") (unit 1) (value "640") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/029b4244-0598-4c13-93f4-1892dfa23666"
-      (reference "R13") (unit 1) (value "3.3k") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/d136f28a-3277-4752-883d-ff7c56a46719"
-      (reference "R14") (unit 1) (value "450") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/4e9576b8-a938-4494-821d-66b5c2bca190"
-      (reference "R15") (unit 1) (value "450") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/7e4f5a03-6f05-45e5-a5e4-fc0280cc2a23"
-      (reference "R16") (unit 1) (value "640") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/be02885d-3686-4ff0-bda0-4f3c8da55485"
-      (reference "R17") (unit 1) (value "303k") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/13a76ba8-d3b8-4e8f-ac70-1fb93e4f62c5"
-      (reference "R18") (unit 1) (value "450") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/325aec2d-27bb-4a8f-add2-2a8d7e81db46"
-      (reference "R19") (unit 1) (value "640") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/f31effa6-a93a-4ed4-aa30-e95624e9bd79"
-      (reference "R20") (unit 1) (value "120k") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/406dbf8c-9e3e-43b5-9e20-fa6422f7c36d"
-      (reference "R21") (unit 1) (value "120k") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/f15515db-b99a-4700-b006-3aad3b255d02"
-      (reference "R22") (unit 1) (value "120k") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/5e272885-7cbe-47b3-a601-c0c563c316d6"
-      (reference "R23") (unit 1) (value "120k") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/660cfc21-5c81-42bd-b762-b39e0b431d49"
-      (reference "R24") (unit 1) (value "120k") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/36de68bf-1199-413b-83c5-e44e038c8b13"
-      (reference "R25") (unit 1) (value "180k") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/66c6a14b-c87a-4a72-b6b2-76b0aa4d3804"
-      (reference "R26") (unit 1) (value "180k") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/abb4a91c-ee7e-414d-8972-b475333a4c4a"
-      (reference "R27") (unit 1) (value "180k") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/cab1c052-49b7-49be-8593-a5d9da522689"
-      (reference "R28") (unit 1) (value "180k") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R2") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/d328afe4-8241-43fa-9b2b-30cf24ab3310"
-      (reference "R29") (unit 1) (value "180k") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R3") (unit 1) (value "180k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
-    (path "/f130a7cf-95f1-4dc9-8ee4-97ffa7f927c7"
-      (reference "R30") (unit 1) (value "120k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    (path "/cab1c052-49b7-49be-8593-a5d9da522689"
+      (reference "R4") (unit 1) (value "180k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/abb4a91c-ee7e-414d-8972-b475333a4c4a"
+      (reference "R5") (unit 1) (value "180k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/66c6a14b-c87a-4a72-b6b2-76b0aa4d3804"
+      (reference "R6") (unit 1) (value "180k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/36de68bf-1199-413b-83c5-e44e038c8b13"
+      (reference "R7") (unit 1) (value "180k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/04b2b5dd-bb3e-49d7-9ee9-3a2b9c3ea332"
-      (reference "R31") (unit 1) (value "180k") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R8") (unit 1) (value "180k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
-    (path "/6f35f287-62ba-4c4b-b193-2eb138f79bda"
-      (reference "R32") (unit 1) (value "120k") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/b8aed2a6-ec64-4326-9161-3e81b572942e"
-      (reference "R33") (unit 1) (value "120k") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/1147eb2d-9c66-4348-a246-761db5da15d9"
-      (reference "R34") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/84236397-93ea-4374-b8ac-bb0310df9c45"
+      (reference "R9") (unit 1) (value "450") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/70518912-2fbc-4b82-89e3-0222c211dfbc"
-      (reference "R35") (unit 1) (value "120k") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R10") (unit 1) (value "120k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/e35bde1e-335d-4bff-ae9c-b54919004f87"
+      (reference "R11") (unit 1) (value "450") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/660cfc21-5c81-42bd-b762-b39e0b431d49"
+      (reference "R12") (unit 1) (value "120k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/5e272885-7cbe-47b3-a601-c0c563c316d6"
+      (reference "R13") (unit 1) (value "120k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/f15515db-b99a-4700-b006-3aad3b255d02"
+      (reference "R14") (unit 1) (value "120k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/406dbf8c-9e3e-43b5-9e20-fa6422f7c36d"
+      (reference "R15") (unit 1) (value "120k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/f31effa6-a93a-4ed4-aa30-e95624e9bd79"
+      (reference "R16") (unit 1) (value "120k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/f130a7cf-95f1-4dc9-8ee4-97ffa7f927c7"
+      (reference "R17") (unit 1) (value "120k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/b8aed2a6-ec64-4326-9161-3e81b572942e"
+      (reference "R18") (unit 1) (value "120k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/4ccb8d5e-bed8-4e00-9fa1-d43196117f77"
-      (reference "R36") (unit 1) (value "180k") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R19") (unit 1) (value "180k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
-    (path "/dd38c9f8-a243-407d-af4d-ad682074e37f"
-      (reference "R37") (unit 1) (value "180k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/13a76ba8-d3b8-4e8f-ac70-1fb93e4f62c5"
+      (reference "R20") (unit 1) (value "450") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
-    (path "/670bdd6f-09fb-4496-a13e-4688e330c6dc"
-      (reference "R38") (unit 1) (value "180k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/d136f28a-3277-4752-883d-ff7c56a46719"
+      (reference "R21") (unit 1) (value "450") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/029b4244-0598-4c13-93f4-1892dfa23666"
+      (reference "R22") (unit 1) (value "3.3k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/be02885d-3686-4ff0-bda0-4f3c8da55485"
+      (reference "R23") (unit 1) (value "303k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/82cb216d-a56a-4a90-a2dc-a6e89c5c65f1"
+      (reference "R24") (unit 1) (value "640") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/93054a4c-598c-4c37-8526-8bc62f4b9f6f"
+      (reference "R25") (unit 1) (value "640") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/7e4f5a03-6f05-45e5-a5e4-fc0280cc2a23"
+      (reference "R26") (unit 1) (value "640") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/325aec2d-27bb-4a8f-add2-2a8d7e81db46"
+      (reference "R27") (unit 1) (value "640") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/bcd76ecc-6c32-4e47-9590-4560e53b6cdd"
+      (reference "R28") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/4e9576b8-a938-4494-821d-66b5c2bca190"
+      (reference "R29") (unit 1) (value "450") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/3f76aa89-e6d9-47c2-8eec-90aede772b36"
+      (reference "R30") (unit 1) (value "450") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/39bf8a8d-bf1b-47ec-80b5-37145946485e"
-      (reference "R39") (unit 1) (value "120k") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R31") (unit 1) (value "120k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/dd38c9f8-a243-407d-af4d-ad682074e37f"
+      (reference "R32") (unit 1) (value "180k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/3cc4a3c1-bc90-4ddd-a066-93f8a92184d9"
+      (reference "R33") (unit 1) (value "450") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/acd6f9ea-9518-472f-9e26-108e4d7a8081"
+      (reference "R34") (unit 1) (value "450") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/6f35f287-62ba-4c4b-b193-2eb138f79bda"
+      (reference "R35") (unit 1) (value "120k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/171e3f32-59c8-49b6-84c5-44c46bb92710"
-      (reference "R40") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R36") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/642261a0-9b80-405b-8ad6-d49dbabef0f8"
-      (reference "R41") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R37") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/d94a77fc-5957-46ad-96c6-fb4ddae883bf"
-      (reference "R42") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R38") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/ee6e163d-6be1-434a-be0c-5566a9522474"
-      (reference "R43") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R39") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/79364175-0f0e-4389-95e6-1874bbc1fb49"
-      (reference "R44") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R40") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/d8061a5e-5668-49a6-b09f-584ff16b03c0"
-      (reference "R45") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R41") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
-    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/737ba571-9edf-4e29-937c-9e4936917a8d"
-      (reference "TP1") (unit 1) (value "Sample") (footprint "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm")
+    (path "/8d4f7722-7bdd-4159-93b9-e4a5d3396ac3"
+      (reference "R42") (unit 1) (value "6.98k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
-    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/ff83114b-2617-41d3-8cbb-911623272170"
-      (reference "TP2") (unit 1) (value "10 μs delay") (footprint "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm")
+    (path "/77755344-b6bf-44fe-b45a-334fc8bb01f6"
+      (reference "R43") (unit 1) (value "6.04k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
-    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/c83aeeee-af08-4aea-9d0c-0a8f2812a98c"
-      (reference "TP3") (unit 1) (value "~Sample") (footprint "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm")
+    (path "/ab29011c-2d1f-49ee-8fe6-939d5c48b203"
+      (reference "R44") (unit 1) (value "2k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/1147eb2d-9c66-4348-a246-761db5da15d9"
+      (reference "R45") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/72d430ef-dbeb-4e28-b6ef-ecafd51103df"
+      (reference "TP1") (unit 1) (value "GND") (footprint "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm")
+    )
+    (path "/9d827eef-28b1-432f-9f98-ce802d55d331"
+      (reference "TP2") (unit 1) (value "3.6 V") (footprint "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm")
+    )
+    (path "/6172b9a0-2c4f-46a6-9a81-086f9421cc60"
+      (reference "TP3") (unit 1) (value "15 V") (footprint "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm")
     )
     (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/7465aab8-a1b7-4ee6-8a4b-c683d8a1c19f"
       (reference "TP4") (unit 1) (value "100 μs pulse") (footprint "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm")
     )
-    (path "/6172b9a0-2c4f-46a6-9a81-086f9421cc60"
-      (reference "TP5") (unit 1) (value "15 V") (footprint "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm")
+    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/ff83114b-2617-41d3-8cbb-911623272170"
+      (reference "TP5") (unit 1) (value "10 μs delay") (footprint "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm")
     )
-    (path "/9d827eef-28b1-432f-9f98-ce802d55d331"
-      (reference "TP6") (unit 1) (value "3.6 V") (footprint "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm")
+    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/c83aeeee-af08-4aea-9d0c-0a8f2812a98c"
+      (reference "TP6") (unit 1) (value "~Sample") (footprint "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm")
     )
-    (path "/72d430ef-dbeb-4e28-b6ef-ecafd51103df"
-      (reference "TP7") (unit 1) (value "GND") (footprint "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm")
+    (path "/6c91cec8-d836-41c3-9f96-dd4f81dc9fe7/737ba571-9edf-4e29-937c-9e4936917a8d"
+      (reference "TP7") (unit 1) (value "Sample") (footprint "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm")
     )
     (path "/09d4a0d2-409a-4454-a4ae-3644dc755146"
-      (reference "U1") (unit 1) (value "4010") (footprint "")
+      (reference "U1") (unit 1) (value "4010") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
     (path "/f11c5a60-bd4f-475d-a033-df44d852ecf0"
-      (reference "U1") (unit 2) (value "4010") (footprint "")
+      (reference "U1") (unit 2) (value "4010") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
     (path "/44dbe55c-1c4b-4a0b-b490-ba30f61fa6ce"
-      (reference "U1") (unit 3) (value "4010") (footprint "")
+      (reference "U1") (unit 3) (value "4010") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
     (path "/60817206-5309-4e9d-87bd-2ef88c23f86f"
-      (reference "U1") (unit 4) (value "4010") (footprint "")
+      (reference "U1") (unit 4) (value "4010") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
     (path "/da209b2a-623f-42f2-8f5a-7fa924a103a2"
-      (reference "U1") (unit 5) (value "4010") (footprint "")
+      (reference "U1") (unit 5) (value "4010") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
     (path "/632f3900-940c-45e2-bd5b-14c43c6700e6"
       (reference "U1") (unit 6) (value "4010") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
     (path "/d22254cb-d55d-4677-b39b-1d5fd6bb01bb"
-      (reference "U1") (unit 7) (value "4010") (footprint "")
+      (reference "U1") (unit 7) (value "4010") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
     (path "/d3d8c83a-5605-4f82-bc13-d102d896f3d2"
-      (reference "U2") (unit 1) (value "4010") (footprint "")
+      (reference "U2") (unit 1) (value "4010") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
     (path "/5ba6a804-2f1c-455b-b4fc-65671d1f043b"
-      (reference "U2") (unit 2) (value "4010") (footprint "")
+      (reference "U2") (unit 2) (value "4010") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
     (path "/9b54939b-771a-412b-9c73-0e86e24e85d1"
-      (reference "U2") (unit 3) (value "4010") (footprint "")
+      (reference "U2") (unit 3) (value "4010") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
     (path "/32ba3efe-85b2-4e8c-be68-194f53277b7b"
-      (reference "U2") (unit 4) (value "4010") (footprint "")
+      (reference "U2") (unit 4) (value "4010") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
     (path "/9b6728c5-21a5-47d3-94fe-23a82ae37548"
-      (reference "U2") (unit 5) (value "4010") (footprint "")
+      (reference "U2") (unit 5) (value "4010") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
     (path "/6b55d087-ef6f-48fb-90ff-d9a5fe62c0dd"
-      (reference "U2") (unit 6) (value "4010") (footprint "")
+      (reference "U2") (unit 6) (value "4010") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
     (path "/d910f068-24b1-42e8-81c1-3ebe05a7ea87"
       (reference "U2") (unit 7) (value "4010") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
