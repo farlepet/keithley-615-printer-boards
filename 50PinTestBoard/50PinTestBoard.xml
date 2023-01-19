@@ -1,0 +1,1573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/farlepet/projects/electronics/test equipment/keithly_615_printer_board/50PinTestBoard/50PinTestBoard.kicad_sch</source>
+    <date>Wed 18 Jan 2023 06:43:20 PM CST</date>
+    <tool>Eeschema (6.0.10)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Keithley 615 50-Pin Test Board</title>
+        <company>Peter Farley</company>
+        <rev>1.0</rev>
+        <date>2023-01-18</date>
+        <source>50PinTestBoard.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>087e0d7f-96e1-49ee-a99e-5d2f9941e4aa</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>59a2c104-b1a1-4c4f-8d3d-0d49561f56d4</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a62aa4f-de8b-48fe-9705-4534fd502bd7</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>12a92975-4932-4061-ae25-7cf7253c7fbd</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8172d695-016b-422a-92a1-9c665733ec4a</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db24376c-0a2e-4da4-90d6-3f1de699ff17</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b34108f-f1c7-4f4e-a973-76b59032cea4</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c06b72b6-c522-4cb6-a308-d29d1a9d1e57</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a94509d-13dc-423f-bc5e-e4187fa2a527</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8036afeb-38cd-4090-95d0-91b9b44e3446</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>632d2f5e-a2c0-4dd8-831b-9ed661acaeaf</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>89ae4854-fcfc-49fb-a289-5192d6a13b81</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff2194f2-0c19-4241-85f5-ecc3ef406dcc</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>03ec3637-2baa-46bf-81ce-b3a034371816</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eab66302-62f1-4ebe-a1fe-04fa8fcedced</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c4b561c-ce09-4d95-8a2a-15f70266785d</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>93ad87fe-4b40-4d58-8c25-ef4809dc8fdb</tstamps>
+    </comp>
+    <comp ref="D18">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>95c9d0e3-fda5-430b-b51a-9155788874c0</tstamps>
+    </comp>
+    <comp ref="D19">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>180ee10e-c797-4bfe-9974-59450deb2be7</tstamps>
+    </comp>
+    <comp ref="D20">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c4ff658-ad10-4c63-ba5f-de279083200e</tstamps>
+    </comp>
+    <comp ref="D21">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>147de073-93b9-4a9e-9988-c7400279b699</tstamps>
+    </comp>
+    <comp ref="D22">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db1eddc0-b099-4fed-b202-c67cb70b32f3</tstamps>
+    </comp>
+    <comp ref="D23">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ba85641f-81ed-4b7e-8ba7-5d4d0ec6b105</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Keithley_50-Pin_Connector</value>
+      <footprint>footprints:NorComp_112-050-213R001</footprint>
+      <libsource lib="lib_symbols" part="Keithley_50-Pin_Connector" description="Keithley 615 Printer Connector"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2860f186-d501-4fba-a1fa-4ecbdba529c0</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>BC848W</value>
+      <footprint>Package_TO_SOT_SMD:SOT-323_SC-70</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d2093e21-3ec1-4ffd-8ba0-95017310932b</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>BC848W</value>
+      <footprint>Package_TO_SOT_SMD:SOT-323_SC-70</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f0b86f3f-052c-4628-a27b-9dd9b88c955c</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>BC848W</value>
+      <footprint>Package_TO_SOT_SMD:SOT-323_SC-70</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c3a523cc-66cf-451c-a095-355eb26a2492</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>BC848W</value>
+      <footprint>Package_TO_SOT_SMD:SOT-323_SC-70</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8aff7cf-40e7-42f5-9e9c-45505e74ddd3</tstamps>
+    </comp>
+    <comp ref="Q5">
+      <value>BC848W</value>
+      <footprint>Package_TO_SOT_SMD:SOT-323_SC-70</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>03958f2c-50b4-4286-8193-ba0cbed2e942</tstamps>
+    </comp>
+    <comp ref="Q6">
+      <value>BC848W</value>
+      <footprint>Package_TO_SOT_SMD:SOT-323_SC-70</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3b56a0ce-0a3b-4866-879c-83861318a420</tstamps>
+    </comp>
+    <comp ref="Q7">
+      <value>BC848W</value>
+      <footprint>Package_TO_SOT_SMD:SOT-323_SC-70</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7833152a-33cd-455f-bcd0-a727cea89995</tstamps>
+    </comp>
+    <comp ref="Q8">
+      <value>BC848W</value>
+      <footprint>Package_TO_SOT_SMD:SOT-323_SC-70</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>541a40b6-db8a-45b8-957f-fc585dddcc65</tstamps>
+    </comp>
+    <comp ref="Q9">
+      <value>BC848W</value>
+      <footprint>Package_TO_SOT_SMD:SOT-323_SC-70</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fed2703c-d814-4b78-a4e0-968d2cd78abb</tstamps>
+    </comp>
+    <comp ref="Q10">
+      <value>BC848W</value>
+      <footprint>Package_TO_SOT_SMD:SOT-323_SC-70</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf2ea810-c326-43e2-855a-8e5b71207aa9</tstamps>
+    </comp>
+    <comp ref="Q11">
+      <value>BC848W</value>
+      <footprint>Package_TO_SOT_SMD:SOT-323_SC-70</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>000b583e-cbe7-407e-a41a-9b152b09a1ea</tstamps>
+    </comp>
+    <comp ref="Q12">
+      <value>BC848W</value>
+      <footprint>Package_TO_SOT_SMD:SOT-323_SC-70</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9bc3c33-80bb-4727-85ee-c297a3fb42d6</tstamps>
+    </comp>
+    <comp ref="Q13">
+      <value>BC848W</value>
+      <footprint>Package_TO_SOT_SMD:SOT-323_SC-70</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d85e573-2308-428a-b075-5cc1704639c7</tstamps>
+    </comp>
+    <comp ref="Q14">
+      <value>BC848W</value>
+      <footprint>Package_TO_SOT_SMD:SOT-323_SC-70</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60190ac9-7474-47ef-993e-a1777b1528e2</tstamps>
+    </comp>
+    <comp ref="Q15">
+      <value>BC848W</value>
+      <footprint>Package_TO_SOT_SMD:SOT-323_SC-70</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>400525f2-2d6b-43d5-b585-06f210184090</tstamps>
+    </comp>
+    <comp ref="Q16">
+      <value>BC848W</value>
+      <footprint>Package_TO_SOT_SMD:SOT-323_SC-70</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b91a80fc-a112-42cd-93ef-b59ee390cb82</tstamps>
+    </comp>
+    <comp ref="Q17">
+      <value>BC848W</value>
+      <footprint>Package_TO_SOT_SMD:SOT-323_SC-70</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dce7b325-3b26-4b16-8135-e6e203155360</tstamps>
+    </comp>
+    <comp ref="Q18">
+      <value>BC848W</value>
+      <footprint>Package_TO_SOT_SMD:SOT-323_SC-70</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>168b63d6-74a3-43be-ac2d-a80da9b0ca2d</tstamps>
+    </comp>
+    <comp ref="Q19">
+      <value>BC848W</value>
+      <footprint>Package_TO_SOT_SMD:SOT-323_SC-70</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>87feaeef-b4e9-437c-95b4-9b09d5974ea3</tstamps>
+    </comp>
+    <comp ref="Q20">
+      <value>BC848W</value>
+      <footprint>Package_TO_SOT_SMD:SOT-323_SC-70</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>11d685e3-7600-4724-a73a-5217e7dafca6</tstamps>
+    </comp>
+    <comp ref="Q21">
+      <value>BC848W</value>
+      <footprint>Package_TO_SOT_SMD:SOT-323_SC-70</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ebacd2f6-679f-4021-a8c5-7a6f6ec4b51d</tstamps>
+    </comp>
+    <comp ref="Q22">
+      <value>BC848W</value>
+      <footprint>Package_TO_SOT_SMD:SOT-323_SC-70</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e02bcb2c-1589-40e2-a4fc-0cc8f3065ada</tstamps>
+    </comp>
+    <comp ref="Q23">
+      <value>BC848W</value>
+      <footprint>Package_TO_SOT_SMD:SOT-323_SC-70</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC848W" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c199c7e-47c7-4d5b-8d38-27817e45a252</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>50k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad1ee5d5-da65-47d0-a409-e0994da8d7b3</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>50k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8193d81b-aeb8-437a-ba7f-cad60fdd5e4c</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>50k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60b839dd-62ae-4cc7-ba9e-011625601091</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>50k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ef3030f-5fef-469a-a12d-9fd828685769</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>50k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bbfca2d2-7794-46f1-a7d9-a4f0c2aee110</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>50k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b952ad4f-5f7c-4a6a-a791-13fc847d924b</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>50k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7c48e1a9-2c27-4f37-8b7c-0366e0802785</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>50k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>af2809cc-e1b7-4318-9299-831181867501</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>50k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3961d794-8b9e-446d-bcac-4a135d8f3bc0</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>50k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b4f883e4-9b1c-4457-a491-ffcf1a7ffc26</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>50k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>82b05e79-2dba-4feb-ad7b-254315693fb2</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>50k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2302e91d-b95e-4326-b164-b75166c0bcf7</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>50k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c06e37f2-e276-40d7-bc63-f243e80df560</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>6.8k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f6f56f03-c423-4a8c-8b6d-e1799b56c08a</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>6.8k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94e282fd-b1d5-4d3d-8525-00cb89aacef3</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>6.8k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b7de75c1-7f7e-477c-96d2-20669f6b1661</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>6.8k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff0c75aa-0f3a-46d2-ba7c-b5b6c8fec29a</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>6.8k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>338cc5e3-0cd8-4627-951a-8a9727885277</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>6.8k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ad5320d-bb24-4526-bee0-f18a37a36509</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>6.8k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e765b84d-5f93-4c25-acfc-33d2202efaf0</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>6.8k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f4cfcce9-2262-478b-b22c-2652d6cdd39a</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>6.8k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>993ee373-4e82-4890-9e10-69385aaea7f1</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>6.8k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>466d9069-507a-4e06-9d5e-5420c796c1f3</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>6.8k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e2b98dc-b703-4a56-92ba-4d3ca068c4f0</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>6.8k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>65e317b5-f708-4de6-9634-b9c669a204ba</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>6.8k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d8c36949-bc12-4f2e-9b8b-ddf5b780b20a</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>50k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>acf30556-b784-45ca-a6a7-82278732f675</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>50k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a9171f44-b928-4bac-b4ad-941bacce08ea</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>50k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a93e0021-afea-4adc-b63f-ef2524c2b38f</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>50k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e2092ec-7906-4400-8c85-770321cb24f1</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>50k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>11f2de35-074a-4b7c-861e-355e50f137f6</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>50k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d68297f9-fc1e-4fce-91ee-db3cbc4a9b76</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>50k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2a62a9a0-af4e-49e3-b59f-4f9e74bbd89b</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>50k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9d52879-3e23-4191-b618-5c12b1e2a0af</tstamps>
+    </comp>
+    <comp ref="R35">
+      <value>50k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf2d7c53-d9b7-4c68-89b9-114eea345634</tstamps>
+    </comp>
+    <comp ref="R36">
+      <value>50k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dd286e8a-46ae-49c4-9964-e296814e85b4</tstamps>
+    </comp>
+    <comp ref="R37">
+      <value>6.8k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>87aaa81f-d7bd-4e5a-a0b6-250b361942f5</tstamps>
+    </comp>
+    <comp ref="R38">
+      <value>6.8k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9a4c866a-b2a7-4ef8-a055-4bbf42152c7a</tstamps>
+    </comp>
+    <comp ref="R39">
+      <value>6.8k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e60c2f7b-a8d2-40c3-8cb4-7a6daec46e34</tstamps>
+    </comp>
+    <comp ref="R40">
+      <value>6.8k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>87eb3b7d-6e95-4bcc-ba74-006f69bf984e</tstamps>
+    </comp>
+    <comp ref="R41">
+      <value>6.8k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f641639-e793-408f-8498-7c8aee02f8f8</tstamps>
+    </comp>
+    <comp ref="R42">
+      <value>6.8k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0b69ec2-3ea2-4f17-93fb-ec3a75a77f45</tstamps>
+    </comp>
+    <comp ref="R43">
+      <value>6.8k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f9c2fec5-a9f6-46d0-8735-61f958be67f7</tstamps>
+    </comp>
+    <comp ref="R44">
+      <value>6.8k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b5f6213b-5d96-4951-a92d-50dfc0136aff</tstamps>
+    </comp>
+    <comp ref="R45">
+      <value>6.8k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5eecb733-3b8c-478c-846a-e71aafcd2a8d</tstamps>
+    </comp>
+    <comp ref="R46">
+      <value>6.8k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>790899f5-be0b-4027-8490-1336cc514956</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_Push</value>
+      <footprint>Button_Switch_SMD:SW_SPST_PTS810</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd7d92db-3231-4234-9f7e-4f43f4202216</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_SPST</value>
+      <footprint>Button_Switch_SMD:SW_SPDT_CK-JS102011SAQN</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8afe901f-754d-47ed-b229-3b048fcfe16b</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>SW_SPST</value>
+      <footprint>Button_Switch_SMD:SW_SPDT_CK-JS102011SAQN</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="50PinTestBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>575c672a-95f1-4630-afe7-71ad4b89d55c</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_SPST">
+      <description>Single Pole Single Throw (SPST) switch</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_SPST</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="BC848W">
+      <description>0.1A Ic, 30V Vce, NPN Transistor, SOT-323</description>
+      <docs>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</docs>
+      <footprints>
+        <fp>SOT?323*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BC848W</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-323_SC-70</field>
+        <field name="Datasheet">http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="lib_symbols" part="Keithley_50-Pin_Connector">
+      <description>Keithley 615 Printer Connector</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Keithley_50-Pin_Connector</field>
+        <field name="Footprint">footprints:NorComp_112-050-213R001</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Data_1e0" type="output"/>
+        <pin num="2" name="Data_2e0" type="output"/>
+        <pin num="3" name="Data_1e1" type="output"/>
+        <pin num="4" name="Data_2e1" type="output"/>
+        <pin num="5" name="Data_1e2" type="output"/>
+        <pin num="6" name="Data_2e2" type="output"/>
+        <pin num="7" name="Data_1e3" type="output"/>
+        <pin num="8" name="GND" type="power_out"/>
+        <pin num="9" name="Range_1e0" type="output"/>
+        <pin num="10" name="Range_2e0" type="output"/>
+        <pin num="11" name="Range_1e1" type="output"/>
+        <pin num="12" name="GND" type="power_out"/>
+        <pin num="13" name="Polarity" type="output"/>
+        <pin num="14" name="+15V" type="power_out"/>
+        <pin num="15" name="Sensitivity_1e0" type="output"/>
+        <pin num="16" name="Sensitivity_2e0" type="output"/>
+        <pin num="17" name="+15V" type="power_out"/>
+        <pin num="18" name="+3.6V" type="power_out"/>
+        <pin num="19" name="NC" type="no_connect"/>
+        <pin num="20" name="NC" type="no_connect"/>
+        <pin num="21" name="NC" type="no_connect"/>
+        <pin num="22" name="NC" type="no_connect"/>
+        <pin num="23" name="Print_Cmd" type="output"/>
+        <pin num="24" name="Ref_Lo" type="output"/>
+        <pin num="25" name="Ref_Hi" type="output"/>
+        <pin num="26" name="Data_4e0" type="output"/>
+        <pin num="27" name="Data_8e0" type="output"/>
+        <pin num="28" name="Data_4e1" type="output"/>
+        <pin num="29" name="Data_8e1" type="output"/>
+        <pin num="30" name="Data_4e2" type="output"/>
+        <pin num="31" name="Data_8e2" type="output"/>
+        <pin num="32" name="GND" type="power_out"/>
+        <pin num="33" name="Overload" type="output"/>
+        <pin num="34" name="Range_4e0" type="output"/>
+        <pin num="35" name="Range_8e0" type="output"/>
+        <pin num="36" name="GND" type="power_out"/>
+        <pin num="37" name="GND" type="power_out"/>
+        <pin num="38" name="GND" type="power_out"/>
+        <pin num="39" name="+15V" type="power_out"/>
+        <pin num="40" name="GND" type="power_out"/>
+        <pin num="41" name="GND" type="power_out"/>
+        <pin num="42" name="-15V" type="power_out"/>
+        <pin num="43" name="GND" type="power_out"/>
+        <pin num="44" name="Hold1" type="input"/>
+        <pin num="45" name="Hold2" type="input"/>
+        <pin num="46" name="Trigger" type="input"/>
+        <pin num="47" name="NC" type="no_connect"/>
+        <pin num="48" name="NC" type="no_connect"/>
+        <pin num="49" name="NC" type="no_connect"/>
+        <pin num="50" name="NC" type="no_connect"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>/usr/share/kicad/symbols//Switch.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_BJT">
+      <uri>/usr/share/kicad/symbols//Transistor_BJT.kicad_sym</uri>
+    </library>
+    <library logical="lib_symbols">
+      <uri>/home/farlepet/projects/electronics/test equipment/keithly_615_printer_board/lib/lib_symbols.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="R26" pin="1" pintype="passive"/>
+      <node ref="R37" pin="1" pintype="passive"/>
+      <node ref="R38" pin="1" pintype="passive"/>
+      <node ref="R39" pin="1" pintype="passive"/>
+      <node ref="R40" pin="1" pintype="passive"/>
+      <node ref="R41" pin="1" pintype="passive"/>
+      <node ref="R42" pin="1" pintype="passive"/>
+      <node ref="R43" pin="1" pintype="passive"/>
+      <node ref="R44" pin="1" pintype="passive"/>
+      <node ref="R45" pin="1" pintype="passive"/>
+      <node ref="R46" pin="1" pintype="passive"/>
+    </net>
+    <net code="2" name="GND">
+      <node ref="J1" pin="12" pinfunction="GND" pintype="power_out"/>
+      <node ref="J1" pin="32" pinfunction="GND" pintype="power_out"/>
+      <node ref="J1" pin="36" pinfunction="GND" pintype="power_out"/>
+      <node ref="J1" pin="37" pinfunction="GND" pintype="power_out"/>
+      <node ref="J1" pin="38" pinfunction="GND" pintype="power_out"/>
+      <node ref="J1" pin="40" pinfunction="GND" pintype="power_out"/>
+      <node ref="J1" pin="41" pinfunction="GND" pintype="power_out"/>
+      <node ref="J1" pin="43" pinfunction="GND" pintype="power_out"/>
+      <node ref="J1" pin="8" pinfunction="GND" pintype="power_out"/>
+      <node ref="Q1" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q10" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q11" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q12" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q13" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q14" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q15" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q16" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q17" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q18" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q19" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q20" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q21" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q22" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q23" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q3" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q4" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q5" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q6" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q7" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q8" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q9" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW3" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(D3-Pad1)">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q3" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(D4-Pad1)">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q4" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(D5-Pad1)">
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q5" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(D6-Pad1)">
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q6" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(D7-Pad1)">
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q7" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(D8-Pad1)">
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q8" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(D9-Pad1)">
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q9" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(D9-Pad2)">
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(D10-Pad1)">
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q10" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(D11-Pad1)">
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q11" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(D11-Pad2)">
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(D12-Pad1)">
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q12" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(D12-Pad2)">
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(D13-Pad1)">
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q13" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(D13-Pad2)">
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R26" pin="2" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(D14-Pad1)">
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q14" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(D14-Pad2)">
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R37" pin="2" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(D15-Pad1)">
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q15" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(D15-Pad2)">
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R38" pin="2" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(D16-Pad1)">
+      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q16" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(D16-Pad2)">
+      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R39" pin="2" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D17-Pad1)">
+      <node ref="D17" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q17" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D17-Pad2)">
+      <node ref="D17" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R40" pin="2" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D18-Pad1)">
+      <node ref="D18" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q18" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D18-Pad2)">
+      <node ref="D18" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R41" pin="2" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D19-Pad1)">
+      <node ref="D19" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q19" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(D19-Pad2)">
+      <node ref="D19" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R42" pin="2" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(D20-Pad1)">
+      <node ref="D20" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q20" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(D20-Pad2)">
+      <node ref="D20" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R43" pin="2" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(D21-Pad1)">
+      <node ref="D21" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q21" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(D21-Pad2)">
+      <node ref="D21" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R44" pin="2" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(D22-Pad1)">
+      <node ref="D22" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q22" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(D22-Pad2)">
+      <node ref="D22" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R45" pin="2" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(D23-Pad1)">
+      <node ref="D23" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q23" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(D23-Pad2)">
+      <node ref="D23" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R46" pin="2" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(J1-Pad1)">
+      <node ref="J1" pin="1" pinfunction="Data_1e0" pintype="output"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(J1-Pad2)">
+      <node ref="J1" pin="2" pinfunction="Data_2e0" pintype="output"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(J1-Pad3)">
+      <node ref="J1" pin="3" pinfunction="Data_1e1" pintype="output"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(J1-Pad4)">
+      <node ref="J1" pin="4" pinfunction="Data_2e1" pintype="output"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(J1-Pad5)">
+      <node ref="J1" pin="5" pinfunction="Data_1e2" pintype="output"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(J1-Pad6)">
+      <node ref="J1" pin="6" pinfunction="Data_2e2" pintype="output"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(J1-Pad7)">
+      <node ref="J1" pin="7" pinfunction="Data_1e3" pintype="output"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(J1-Pad9)">
+      <node ref="J1" pin="9" pinfunction="Range_1e0" pintype="output"/>
+      <node ref="R36" pin="2" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(J1-Pad10)">
+      <node ref="J1" pin="10" pinfunction="Range_2e0" pintype="output"/>
+      <node ref="R35" pin="2" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(J1-Pad11)">
+      <node ref="J1" pin="11" pinfunction="Range_1e1" pintype="output"/>
+      <node ref="R32" pin="2" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(J1-Pad13)">
+      <node ref="J1" pin="13" pinfunction="Polarity" pintype="output"/>
+      <node ref="R27" pin="2" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(J1-Pad14)">
+      <node ref="J1" pin="14" pinfunction="+15V" pintype="power_out"/>
+      <node ref="J1" pin="17" pinfunction="+15V" pintype="power_out"/>
+      <node ref="J1" pin="39" pinfunction="+15V" pintype="power_out"/>
+    </net>
+    <net code="61" name="Net-(J1-Pad15)">
+      <node ref="J1" pin="15" pinfunction="Sensitivity_1e0" pintype="output"/>
+      <node ref="R31" pin="2" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(J1-Pad16)">
+      <node ref="J1" pin="16" pinfunction="Sensitivity_2e0" pintype="output"/>
+      <node ref="R30" pin="2" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(J1-Pad18)">
+      <node ref="J1" pin="18" pinfunction="+3.6V" pintype="power_out"/>
+    </net>
+    <net code="64" name="Net-(J1-Pad23)">
+      <node ref="J1" pin="23" pinfunction="Print_Cmd" pintype="output"/>
+      <node ref="R29" pin="2" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(J1-Pad24)">
+      <node ref="J1" pin="24" pinfunction="Ref_Lo" pintype="output"/>
+    </net>
+    <net code="66" name="Net-(J1-Pad25)">
+      <node ref="J1" pin="25" pinfunction="Ref_Hi" pintype="output"/>
+    </net>
+    <net code="67" name="Net-(J1-Pad26)">
+      <node ref="J1" pin="26" pinfunction="Data_4e0" pintype="output"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(J1-Pad27)">
+      <node ref="J1" pin="27" pinfunction="Data_8e0" pintype="output"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(J1-Pad28)">
+      <node ref="J1" pin="28" pinfunction="Data_4e1" pintype="output"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(J1-Pad29)">
+      <node ref="J1" pin="29" pinfunction="Data_8e1" pintype="output"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(J1-Pad30)">
+      <node ref="J1" pin="30" pinfunction="Data_4e2" pintype="output"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(J1-Pad31)">
+      <node ref="J1" pin="31" pinfunction="Data_8e2" pintype="output"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(J1-Pad33)">
+      <node ref="J1" pin="33" pinfunction="Overload" pintype="output"/>
+      <node ref="R28" pin="2" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(J1-Pad34)">
+      <node ref="J1" pin="34" pinfunction="Range_4e0" pintype="output"/>
+      <node ref="R34" pin="2" pintype="passive"/>
+    </net>
+    <net code="75" name="Net-(J1-Pad35)">
+      <node ref="J1" pin="35" pinfunction="Range_8e0" pintype="output"/>
+      <node ref="R33" pin="2" pintype="passive"/>
+    </net>
+    <net code="76" name="Net-(J1-Pad42)">
+      <node ref="J1" pin="42" pinfunction="-15V" pintype="power_out"/>
+    </net>
+    <net code="77" name="Net-(J1-Pad44)">
+      <node ref="J1" pin="44" pinfunction="Hold1" pintype="input"/>
+      <node ref="SW2" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="78" name="Net-(J1-Pad45)">
+      <node ref="J1" pin="45" pinfunction="Hold2" pintype="input"/>
+      <node ref="SW3" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="79" name="Net-(J1-Pad46)">
+      <node ref="J1" pin="46" pinfunction="Trigger" pintype="input"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="80" name="Net-(Q1-Pad1)">
+      <node ref="Q1" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="81" name="Net-(Q2-Pad1)">
+      <node ref="Q2" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="82" name="Net-(Q3-Pad1)">
+      <node ref="Q3" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="83" name="Net-(Q4-Pad1)">
+      <node ref="Q4" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="84" name="Net-(Q5-Pad1)">
+      <node ref="Q5" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="85" name="Net-(Q6-Pad1)">
+      <node ref="Q6" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="86" name="Net-(Q7-Pad1)">
+      <node ref="Q7" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="87" name="Net-(Q8-Pad1)">
+      <node ref="Q8" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="88" name="Net-(Q9-Pad1)">
+      <node ref="Q9" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="89" name="Net-(Q10-Pad1)">
+      <node ref="Q10" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="90" name="Net-(Q11-Pad1)">
+      <node ref="Q11" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+    </net>
+    <net code="91" name="Net-(Q12-Pad1)">
+      <node ref="Q12" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="92" name="Net-(Q13-Pad1)">
+      <node ref="Q13" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+    </net>
+    <net code="93" name="Net-(Q14-Pad1)">
+      <node ref="Q14" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R27" pin="1" pintype="passive"/>
+    </net>
+    <net code="94" name="Net-(Q15-Pad1)">
+      <node ref="Q15" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R28" pin="1" pintype="passive"/>
+    </net>
+    <net code="95" name="Net-(Q16-Pad1)">
+      <node ref="Q16" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R29" pin="1" pintype="passive"/>
+    </net>
+    <net code="96" name="Net-(Q17-Pad1)">
+      <node ref="Q17" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R30" pin="1" pintype="passive"/>
+    </net>
+    <net code="97" name="Net-(Q18-Pad1)">
+      <node ref="Q18" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R31" pin="1" pintype="passive"/>
+    </net>
+    <net code="98" name="Net-(Q19-Pad1)">
+      <node ref="Q19" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R32" pin="1" pintype="passive"/>
+    </net>
+    <net code="99" name="Net-(Q20-Pad1)">
+      <node ref="Q20" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R33" pin="1" pintype="passive"/>
+    </net>
+    <net code="100" name="Net-(Q21-Pad1)">
+      <node ref="Q21" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R34" pin="1" pintype="passive"/>
+    </net>
+    <net code="101" name="Net-(Q22-Pad1)">
+      <node ref="Q22" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R35" pin="1" pintype="passive"/>
+    </net>
+    <net code="102" name="Net-(Q23-Pad1)">
+      <node ref="Q23" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R36" pin="1" pintype="passive"/>
+    </net>
+    <net code="103" name="unconnected-(J1-Pad19)">
+      <node ref="J1" pin="19" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="104" name="unconnected-(J1-Pad20)">
+      <node ref="J1" pin="20" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="105" name="unconnected-(J1-Pad21)">
+      <node ref="J1" pin="21" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="106" name="unconnected-(J1-Pad22)">
+      <node ref="J1" pin="22" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="107" name="unconnected-(J1-Pad47)">
+      <node ref="J1" pin="47" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="108" name="unconnected-(J1-Pad48)">
+      <node ref="J1" pin="48" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="109" name="unconnected-(J1-Pad49)">
+      <node ref="J1" pin="49" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="110" name="unconnected-(J1-Pad50)">
+      <node ref="J1" pin="50" pinfunction="NC" pintype="no_connect"/>
+    </net>
+  </nets>
+</export>
