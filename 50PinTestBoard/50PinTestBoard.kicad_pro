@@ -393,7 +393,9 @@
         "name": "Power",
         "nets": [
           "+5V",
-          "GND"
+          "GND",
+          "Net-(J1-Pad51)",
+          "Net-(J1-Pad52)"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
