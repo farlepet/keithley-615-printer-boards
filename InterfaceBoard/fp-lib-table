@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "lib")(type "KiCad")(uri "/home/farlepet/projects/electronics/test_equipment/keithley_615_printer_board/lib/footprints.pretty")(options "")(descr ""))
+)
