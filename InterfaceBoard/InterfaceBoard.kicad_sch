@@ -1381,7 +1381,10 @@
       (reference "#PWR0167") (unit 1) (value "+3V3") (footprint "")
     )
     (path "/d74a2181-f350-48db-a6ce-51542911d227/4e96139b-bcfa-402e-9ba8-b35543ccd241"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0168") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/d012d009-33c3-43a4-bbb3-b4f43de9d077/d6d2fb24-f6fb-4d86-bee6-3937b97a04f8"
+      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
     )
     (path "/7510d84d-561c-4c04-9a47-602785bf143f/33265ba7-ef1d-49c8-b2f9-33fbd5dfa7c1"
       (reference "C1") (unit 1) (value "10nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
@@ -1485,14 +1488,14 @@
     (path "/d74a2181-f350-48db-a6ce-51542911d227/bcb8be8c-4c20-4090-bd08-1b0bccaff934"
       (reference "D4") (unit 1) (value "Red") (footprint "LED_SMD:LED_0603_1608Metric")
     )
-    (path "/d74a2181-f350-48db-a6ce-51542911d227/6b553946-448b-4e67-89d6-09e06caa7c2f"
-      (reference "D?") (unit 1) (value "D_TVS") (footprint "")
+    (path "/d74a2181-f350-48db-a6ce-51542911d227/b81f8642-62a2-42df-b894-6d1fc583627b"
+      (reference "D5") (unit 1) (value "PE1605M1Q") (footprint "Diode_SMD:D_0402_1005Metric")
     )
     (path "/d74a2181-f350-48db-a6ce-51542911d227/90e5ae07-b3ca-4b3f-9889-1df51f086476"
-      (reference "D?") (unit 1) (value "D_TVS") (footprint "")
+      (reference "D6") (unit 1) (value "PE1605M1Q") (footprint "Diode_SMD:D_0402_1005Metric")
     )
-    (path "/d74a2181-f350-48db-a6ce-51542911d227/c3375b59-2a85-410c-847b-50e7f8bc3c31"
-      (reference "D?") (unit 1) (value "D_TVS") (footprint "")
+    (path "/d74a2181-f350-48db-a6ce-51542911d227/cad21b70-f546-4751-a7fe-ed1596527ad2"
+      (reference "D7") (unit 1) (value "PE1605M1Q") (footprint "Diode_SMD:D_0402_1005Metric")
     )
     (path "/859ec3d2-331e-4004-a517-8c191006d88c"
       (reference "H1") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad")
