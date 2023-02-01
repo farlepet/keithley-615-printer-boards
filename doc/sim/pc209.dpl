@@ -1,0 +1,48 @@
+<Qucs Schematic 1.0.0>
+<Properties>
+  <View=0,-94,1702,2221,1,0,1440>
+  <Grid=10,10,0>
+  <DataSet=pc209.dat>
+  <DataDisplay=pc209.sch>
+  <OpenDisplay=1>
+  <Script=pc209.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 140 371 1152 445 3 #c0c0c0 1 00 1 0 0.0002 0.003 1 -4.38491 1 4.30267 1 -1 0.2 1 315 0 225 1 0 0 "" "" "">
+	<"xyce/tran.V(INPUT)" #0000ff 0 3 0 0 0>
+	<"xyce/tran.V(INV_IN)" #ff0000 0 3 0 0 0>
+	<"xyce/tran.V(OUTPUT)" #ff00ff 0 3 0 0 0>
+	<"xyce/tran.V(FILTERED)" #00ff00 0 3 0 0 0>
+  </Rect>
+  <Rect 130 921 1152 445 3 #c0c0c0 1 00 0 0.001975 5e-06 0.00205 1 -4.38501 1 4.30275 1 -1 0.2 1 315 0 225 1 0 0 "" "" "">
+	<"xyce/tran.V(INPUT)" #0000ff 0 3 0 0 0>
+	<"xyce/tran.V(INV_IN)" #ff0000 0 3 0 0 0>
+	<"xyce/tran.V(OUTPUT)" #ff00ff 0 3 0 0 0>
+	<"xyce/tran.V(FILTERED)" #00ff00 0 3 0 0 0>
+  </Rect>
+  <Rect 130 1501 1152 445 3 #c0c0c0 1 00 0 0.00198 1e-05 0.0023 1 -4.35117 1 4.2971 1 -1 0.2 1 315 0 225 1 0 0 "" "" "">
+	<"xyce/tran.V(INPUT)" #0000ff 0 3 0 0 0>
+	<"xyce/tran.V(INV_IN1)" #ff0000 0 3 0 0 0>
+	<"xyce/tran.V(OUTPUT1)" #ff00ff 0 3 0 0 0>
+	<"xyce/tran.V(FILTERED1)" #0000ff 0 3 0 0 0>
+	<"xyce/tran.V(INV_IN)" #00ffff 0 3 0 0 0>
+  </Rect>
+  <Rect 140 1988 1136 358 3 #c0c0c0 1 00 0 0.001975 1e-05 0.00225 1 -1.47179 5 16.1897 1 -1 0.5 1 315 0 225 0 0 0 "" "" "">
+	<"xyce/tran.V(INPUT)" #0000ff 0 3 0 0 0>
+	<"xyce/tran.V(OUTPUT2)" #ff0000 0 3 0 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>
