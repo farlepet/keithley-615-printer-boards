@@ -7,7 +7,7 @@
   (paper "A5" portrait)
   (title_block
     (title "Keithley 615 50-Pin Test Board")
-    (date "2023-01-21")
+    (date "2023-02-03")
     (rev "1.1")
     (company "Peter Farley")
     (comment 1 "Rev 1.0: Initial Design")
@@ -9203,7 +9203,7 @@
   (gr_arc (start 35.434302 132) (mid 33.312982 131.12132) (end 32.434302 129) (layer "Edge.Cuts") (width 0.1) (tstamp a1ab560b-c981-4bfb-89ba-976088abd0e3))
   (gr_line (start 107.434302 46) (end 107.434302 130) (layer "Edge.Cuts") (width 0.1) (tstamp b3921bb5-ac8b-48db-a7bc-ffd5df080a29))
   (gr_line (start 35.434302 44) (end 105.434302 44) (layer "Edge.Cuts") (width 0.1) (tstamp ff4be8a6-74ef-4359-ab23-f1f5cafb4f6b))
-  (gr_text "Keithley 615 50-Pin Test Board V1.0\nPeter Farley, 2013" (at 46.6 61.5 90) (layer "B.SilkS") (tstamp 20c0f497-e74c-4a3e-8da0-4017bceb8590)
+  (gr_text "Keithley 615 50-Pin Test Board V1.0\nPeter Farley, 2023" (at 46.6 61.5 90) (layer "B.SilkS") (tstamp 20c0f497-e74c-4a3e-8da0-4017bceb8590)
     (effects (font (size 2 2) (thickness 0.2)) (justify left mirror))
   )
   (gr_text "Overload" (at 79.434302 76.25) (layer "F.SilkS") (tstamp 0202ffed-0c28-40f5-bc63-a8fd739f1f41)
