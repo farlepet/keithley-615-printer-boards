@@ -4,6 +4,7 @@ fp-info-cache
 *-backups
 *.log
 Board2Pdf
+\#auto_saved_files#
 
 # Testing files for board fitment
 *.stl
