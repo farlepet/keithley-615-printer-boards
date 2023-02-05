@@ -55,16 +55,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "silk_over_copper|174000000|50000000|ff4be8a6-74ef-4359-ab23-f1f5cafb4f6b|70359786-5618-45cd-b7e3-575aa1a0db3d",
-        "silk_over_copper|174000000|50000000|ff4be8a6-74ef-4359-ab23-f1f5cafb4f6b|e74cfdc7-405a-440b-abbc-59f1638a1051",
-        "silk_over_copper|178000000|50000000|ff4be8a6-74ef-4359-ab23-f1f5cafb4f6b|178d11c9-f439-45f6-9b9b-fd6488a879ce",
-        "silk_over_copper|178000000|50000000|ff4be8a6-74ef-4359-ab23-f1f5cafb4f6b|418c7765-63d6-4cfa-8f0d-0f89dad4369e",
-        "silk_over_copper|184500000|50000000|ff4be8a6-74ef-4359-ab23-f1f5cafb4f6b|f4039cbd-bf93-4d7b-b7fd-69537bab0030",
-        "silk_over_copper|184500000|50000000|ff4be8a6-74ef-4359-ab23-f1f5cafb4f6b|ffe59864-e6f8-4d67-a982-f39a7eda8327",
-        "silk_over_copper|188500000|50000000|ff4be8a6-74ef-4359-ab23-f1f5cafb4f6b|ef2c88d7-aa04-40de-8f04-5e65368e91c8",
-        "silk_over_copper|188500000|50000000|ff4be8a6-74ef-4359-ab23-f1f5cafb4f6b|ff42b647-5795-4cba-87be-0824901401cf"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -94,7 +85,7 @@
         "padstack": "error",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_over_copper": "warning",
+        "silk_over_copper": "ignore",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
         "through_hole_pad_without_hole": "error",
@@ -453,7 +444,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "../doc/sch/",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
     "subpart_first_id": 65,
