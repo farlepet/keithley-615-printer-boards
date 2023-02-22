@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.3
         }
       },
       "diff_pair_dimensions": [
@@ -133,6 +133,8 @@
         0.127,
         0.2,
         0.25,
+        0.3,
+        0.4,
         0.5,
         1.0
       ],
@@ -613,7 +615,10 @@
           "+3.6V",
           "+3V3",
           "-15V",
-          "/USB/V_USB",
+          "/Power Supply/SW_Inductor",
+          "/Power Supply/V_EXT",
+          "/Power Supply/V_IN",
+          "/Power Supply/V_USB",
           "GND"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
@@ -725,6 +730,10 @@
     [
       "18ce03d1-50eb-49d0-9291-aa2573bbabc7",
       "RS232"
+    ],
+    [
+      "e4ed5f74-a53b-42a4-9a6a-98aac2ab5b90",
+      "Power Supply"
     ]
   ],
   "text_variables": {}
