@@ -63,6 +63,11 @@
           "gap": 0.127,
           "via_gap": 0.0,
           "width": 0.65
+        },
+        {
+          "gap": 0.45,
+          "via_gap": 0.0,
+          "width": 1.2
         }
       ],
       "drc_exclusions": [],
@@ -593,6 +598,29 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Default",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.2,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
+        "wire_width": 6.0
+      },
+      {
+        "bus_width": 12.0,
+        "clearance": 0.15,
+        "diff_pair_gap": 0.45,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 1.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "Ethernet",
+        "nets": [
+          "/Ethernet Interface/ETH_PORT_RX+",
+          "/Ethernet Interface/ETH_PORT_RX-",
+          "/Ethernet Interface/ETH_PORT_TX+",
+          "/Ethernet Interface/ETH_PORT_TX-"
+        ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,

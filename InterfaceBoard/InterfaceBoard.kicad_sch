@@ -2018,6 +2018,9 @@
     (path "/d74a2181-f350-48db-a6ce-51542911d227/69ed3a62-13e2-4a4f-bbac-4c178b3e745a"
       (reference "#PWR0152") (unit 1) (value "GND") (footprint "")
     )
+    (path "/18ce03d1-50eb-49d0-9291-aa2573bbabc7/f81612e4-5eec-4d81-9a71-6f92d37ba452"
+      (reference "#PWR0153") (unit 1) (value "+3V3") (footprint "")
+    )
     (path "/18ce03d1-50eb-49d0-9291-aa2573bbabc7/b9b1b432-5749-4e42-b165-009075ab7457"
       (reference "#PWR0154") (unit 1) (value "GND") (footprint "")
     )
@@ -2029,6 +2032,9 @@
     )
     (path "/18ce03d1-50eb-49d0-9291-aa2573bbabc7/9b706f88-3ce5-46c5-bda5-eb2da51d2ff1"
       (reference "#PWR0157") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/18ce03d1-50eb-49d0-9291-aa2573bbabc7/0f6be34e-241b-42e2-8064-faded2a4f99e"
+      (reference "#PWR0158") (unit 1) (value "+3V3") (footprint "")
     )
     (path "/18ce03d1-50eb-49d0-9291-aa2573bbabc7/f89e8783-dd64-445b-8480-5fce0299a0f7"
       (reference "#PWR0159") (unit 1) (value "GND") (footprint "")
@@ -2107,12 +2113,6 @@
     )
     (path "/57642620-e5fa-4544-a15b-1120afd12834"
       (reference "#PWR0184") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/18ce03d1-50eb-49d0-9291-aa2573bbabc7/0f6be34e-241b-42e2-8064-faded2a4f99e"
-      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
-    )
-    (path "/18ce03d1-50eb-49d0-9291-aa2573bbabc7/f81612e4-5eec-4d81-9a71-6f92d37ba452"
-      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
     )
     (path "/7510d84d-561c-4c04-9a47-602785bf143f/33265ba7-ef1d-49c8-b2f9-33fbd5dfa7c1"
       (reference "C1") (unit 1) (value "10nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
@@ -2592,7 +2592,7 @@
       (reference "U2") (unit 1) (value "FT231XQ") (footprint "Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm")
     )
     (path "/18ce03d1-50eb-49d0-9291-aa2573bbabc7/6698d814-b3a4-4b3d-80a1-67cba37d78b5"
-      (reference "U3") (unit 1) (value "MAX232") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
+      (reference "U3") (unit 1) (value "MAX3232") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
     (path "/d012d009-33c3-43a4-bbb3-b4f43de9d077/e6939ce5-5c18-4f0f-a690-63791799dc31"
       (reference "U4") (unit 1) (value "STM32G0B1RET") (footprint "Package_QFP:LQFP-64_10x10mm_P0.5mm")
