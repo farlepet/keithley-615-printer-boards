@@ -669,6 +669,8 @@
         "nets": [
           "/USB/FTDI_D+",
           "/USB/FTDI_D-",
+          "/USB/MCU_USBB_D+",
+          "/USB/MCU_USBB_D-",
           "/USB/USBB_D+",
           "/USB/USBB_D-"
         ],

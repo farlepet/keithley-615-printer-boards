@@ -1656,7 +1656,7 @@
   (symbol (lib_id "power:GND") (at 166.37 168.91 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 34c2389e-7cc3-4011-a4b7-c500c338b4f5)
-    (property "Reference" "#PWR?" (id 0) (at 166.37 175.26 0)
+    (property "Reference" "#PWR0192" (id 0) (at 166.37 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 166.37 173.99 0))
@@ -2013,7 +2013,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 168.91 158.75 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid c6c0c2db-0b52-4029-bffa-d55f68440e63)
-    (property "Reference" "SW?" (id 0) (at 167.64 162.56 0)
+    (property "Reference" "SW2" (id 0) (at 167.64 162.56 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "PTS810" (id 1) (at 167.64 154.94 0)
@@ -2104,7 +2104,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 163.83 158.75 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid fa5be8f7-51b3-41aa-b87c-301c3f8efc33)
-    (property "Reference" "SW?" (id 0) (at 162.56 162.56 0)
+    (property "Reference" "SW1" (id 0) (at 162.56 162.56 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "PTS810" (id 1) (at 162.56 154.94 0)
@@ -2877,7 +2877,7 @@
       (reference "#PWR0191") (unit 1) (value "GND") (footprint "")
     )
     (path "/34c2389e-7cc3-4011-a4b7-c500c338b4f5"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0192") (unit 1) (value "GND") (footprint "")
     )
     (path "/7510d84d-561c-4c04-9a47-602785bf143f/33265ba7-ef1d-49c8-b2f9-33fbd5dfa7c1"
       (reference "C1") (unit 1) (value "10nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
@@ -3147,16 +3147,16 @@
       (reference "R16") (unit 1) (value "49R9") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/d74a2181-f350-48db-a6ce-51542911d227/a7baf01e-0c76-439f-b122-e367567d3ea6"
-      (reference "R17") (unit 1) (value "27R") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R17") (unit 1) (value "27") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/d74a2181-f350-48db-a6ce-51542911d227/d3d68b99-08a5-4c99-9a33-446706bf67f9"
-      (reference "R18") (unit 1) (value "27R") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R18") (unit 1) (value "27") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/d74a2181-f350-48db-a6ce-51542911d227/93fd99b4-a7d1-4c0a-9383-1aa421c4f961"
-      (reference "R19") (unit 1) (value "27R") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R19") (unit 1) (value "27") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/d74a2181-f350-48db-a6ce-51542911d227/d1bc8c3d-57af-4327-afee-9ed00b7b0341"
-      (reference "R20") (unit 1) (value "27R") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R20") (unit 1) (value "27") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/d74a2181-f350-48db-a6ce-51542911d227/44246ea6-1314-49f4-810f-a437a22916fd"
       (reference "R21") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0603_1608Metric")
@@ -3374,11 +3374,17 @@
     (path "/4355f5a4-0500-40bc-be37-0ae476b4d91d"
       (reference "R92") (unit 1) (value "1.8k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
-    (path "/c6c0c2db-0b52-4029-bffa-d55f68440e63"
-      (reference "SW?") (unit 1) (value "PTS810") (footprint "Button_Switch_SMD:SW_SPST_PTS810")
+    (path "/d74a2181-f350-48db-a6ce-51542911d227/e38c6fa7-6a25-4264-bcbb-da4e3cff0be7"
+      (reference "R93") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/d74a2181-f350-48db-a6ce-51542911d227/f6648d5d-2b98-4a44-aa90-a29b5a2c0a10"
+      (reference "R94") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/fa5be8f7-51b3-41aa-b87c-301c3f8efc33"
-      (reference "SW?") (unit 1) (value "PTS810") (footprint "Button_Switch_SMD:SW_SPST_PTS810")
+      (reference "SW1") (unit 1) (value "PTS810") (footprint "Button_Switch_SMD:SW_SPST_PTS810")
+    )
+    (path "/c6c0c2db-0b52-4029-bffa-d55f68440e63"
+      (reference "SW2") (unit 1) (value "PTS810") (footprint "Button_Switch_SMD:SW_SPST_PTS810")
     )
     (path "/6b1005e4-cf6f-4a1d-aca2-678196de2d73"
       (reference "TP1") (unit 1) (value "Ref Hi") (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm")
