@@ -1561,7 +1561,7 @@
     (property "Datasheet" "~" (id 3) (at 156.21 151.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "DigiKey" "https://www.digikey.com/ordering/shoppingcart" (id 4) (at 156.21 151.13 90)
+    (property "DigiKey" "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603JG1K80/1712125" (id 4) (at 156.21 151.13 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid abac6a24-dc30-4e5c-9cef-ca80ce9ea1ba))
@@ -1569,7 +1569,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 39.37 116.84 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 0bf28708-4a7f-44c1-b9d1-a516ae64ef15)
     (property "Reference" "H3" (id 0) (at 35.56 115.57 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1601,7 +1601,7 @@
     (property "Datasheet" "~" (id 3) (at 151.13 151.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "DigiKey" "https://www.digikey.com/ordering/shoppingcart" (id 4) (at 151.13 151.13 90)
+    (property "DigiKey" "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603JG1K80/1712125" (id 4) (at 151.13 151.13 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 11f7848d-6921-4b4a-ab58-af33a1e41f21))
@@ -1657,6 +1657,9 @@
     (property "Datasheet" "~" (id 3) (at 151.13 162.56 90)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "DigiKey" "https://www.digikey.com/en/products/detail/harvatek-corporation/B1911USD-20D000114U1930/15519991" (id 4) (at 151.13 162.56 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid ba56026a-7f9f-4822-bb4c-f672611f7687))
     (pin "2" (uuid 6aae63d6-f96b-4404-a1a2-1376fe6368e5))
   )
@@ -1692,6 +1695,9 @@
     (property "Datasheet" "~" (id 3) (at 158.75 168.91 90)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "DigiKey" "https://www.digikey.com/en/products/detail/harvatek-corporation/B1911USD-20D000114U1930/15519991" (id 4) (at 158.75 168.91 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 5297d4c9-cfb0-4266-a1ed-3ea07fb4594a))
     (pin "2" (uuid 8842a839-f40c-40fd-9510-265b96dcc350))
   )
@@ -1711,7 +1717,7 @@
     (property "Datasheet" "~" (id 3) (at 158.75 151.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "DigiKey" "https://www.digikey.com/ordering/shoppingcart" (id 4) (at 158.75 151.13 90)
+    (property "DigiKey" "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603JG1K80/1712125" (id 4) (at 158.75 151.13 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid c6f41659-04ff-4a41-bd49-9c7545a6b9bc))
@@ -1765,7 +1771,7 @@
     (property "Datasheet" "~" (id 3) (at 153.67 151.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "DigiKey" "https://www.digikey.com/ordering/shoppingcart" (id 4) (at 153.67 151.13 90)
+    (property "DigiKey" "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603JG1K80/1712125" (id 4) (at 153.67 151.13 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 6971efc2-3382-4b1b-8dbc-155da5fb1179))
@@ -1860,7 +1866,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x05_Male") (at 195.58 69.85 90) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 7ca7fa3b-9def-421e-ae9c-ab33ee5f6ae0)
     (property "Reference" "J8" (id 0) (at 195.58 66.04 90))
     (property "Value" "RS232" (id 1) (at 195.58 68.58 90))
@@ -1878,7 +1884,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 39.37 127 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 859ec3d2-331e-4004-a517-8c191006d88c)
     (property "Reference" "H4" (id 0) (at 35.56 125.73 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1896,7 +1902,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x05_Male") (at 195.58 99.06 90) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 8f99316e-2d1f-4429-ad19-222de3ecc8c1)
     (property "Reference" "J6" (id 0) (at 195.58 95.25 90))
     (property "Value" "UART" (id 1) (at 195.58 97.79 90))
@@ -1928,6 +1934,9 @@
     (property "Datasheet" "~" (id 3) (at 153.67 168.91 90)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "DigiKey" "https://www.digikey.com/en/products/detail/harvatek-corporation/B1911USD-20D000114U1930/15519991" (id 4) (at 153.67 168.91 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 8e8ab59c-866a-4ca0-97a1-4eff335e85d7))
     (pin "2" (uuid b597eace-5c99-4055-822a-ef788f4b9101))
   )
@@ -1945,6 +1954,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 156.21 162.56 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "DigiKey" "https://www.digikey.com/en/products/detail/harvatek-corporation/B1911USD-20D000114U1930/15519991" (id 4) (at 156.21 162.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 756d8b27-7705-43ba-bf62-f11b74a2ce8a))
@@ -2033,6 +2045,9 @@
     (property "Datasheet" "~" (id 3) (at 163.83 158.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "DigiKey" "https://www.digikey.com/en/products/detail/c-k/PTS810-SJK-250-SMTR-LFS/4176611" (id 4) (at 168.91 158.75 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid a0511840-4be9-48fc-b5cc-7c45039a49ac))
     (pin "2" (uuid b4ff60e3-a9cf-4cf7-8b1c-1bda4e6bd48b))
   )
@@ -2056,7 +2071,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 39.37 121.92 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid dc243bf2-4354-4f58-866a-1408f67d028e)
     (property "Reference" "H1" (id 0) (at 35.56 120.65 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2074,7 +2089,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 39.37 132.08 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid de378ba8-cbda-4c5c-adc8-d63b09573ce6)
     (property "Reference" "H2" (id 0) (at 35.56 130.81 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2122,6 +2137,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 158.75 158.75 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "DigiKey" "https://www.digikey.com/en/products/detail/c-k/PTS810-SJK-250-SMTR-LFS/4176611" (id 4) (at 163.83 158.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid fbda11cb-5f76-44ab-9ea2-78c0f531b4ac))
@@ -2921,19 +2939,19 @@
       (reference "C11") (unit 1) (value "4.7uF") (footprint "Capacitor_SMD:CP_Elec_5x5.9")
     )
     (path "/e4ed5f74-a53b-42a4-9a6a-98aac2ab5b90/83052fef-dedc-4bb7-8cea-dcbeb52fc179"
-      (reference "C12") (unit 1) (value "10 uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C12") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/e4ed5f74-a53b-42a4-9a6a-98aac2ab5b90/8a5bec77-8099-40a7-a11a-08b520b048a4"
-      (reference "C13") (unit 1) (value "10 uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C13") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/e4ed5f74-a53b-42a4-9a6a-98aac2ab5b90/f4ebac7f-ec5c-4d15-ae38-7fcc95182118"
-      (reference "C14") (unit 1) (value "100 nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C14") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/e4ed5f74-a53b-42a4-9a6a-98aac2ab5b90/8734ca12-acab-43e3-9f26-33e98fc84e8b"
-      (reference "C15") (unit 1) (value "22 uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C15") (unit 1) (value "22uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/e4ed5f74-a53b-42a4-9a6a-98aac2ab5b90/409c3c83-114a-4599-99d5-bb25ee00f7a0"
-      (reference "C16") (unit 1) (value "22 uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C16") (unit 1) (value "22uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/18ce03d1-50eb-49d0-9291-aa2573bbabc7/69e12ea8-8a1b-4b48-ba92-419096cb7c85"
       (reference "C17") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
@@ -3113,28 +3131,28 @@
       (reference "R1") (unit 1) (value "12.4k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/7510d84d-561c-4c04-9a47-602785bf143f/3f28c307-facf-457b-b8c8-5a3487cad1f8"
-      (reference "R2") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R2") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/7510d84d-561c-4c04-9a47-602785bf143f/6ff2f6b7-90fc-40c7-9d15-1070bc60a792"
-      (reference "R3") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R3") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/7510d84d-561c-4c04-9a47-602785bf143f/5429f1fd-95c8-4823-8463-755d25d1fee6"
       (reference "R4") (unit 1) (value "1M") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/7510d84d-561c-4c04-9a47-602785bf143f/eb60b398-9f9c-4636-995c-c33701c6f638"
-      (reference "R5") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R5") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/7510d84d-561c-4c04-9a47-602785bf143f/65041ece-2408-4b88-9798-d05741619886"
-      (reference "R6") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R6") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/7510d84d-561c-4c04-9a47-602785bf143f/4311e92c-7f00-49bb-8cff-e32e641b47bf"
-      (reference "R7") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R7") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/7510d84d-561c-4c04-9a47-602785bf143f/165a35f8-2c56-48ce-a41a-6d0220cc24cd"
-      (reference "R8") (unit 1) (value "49R9") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R8") (unit 1) (value "49.9") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/7510d84d-561c-4c04-9a47-602785bf143f/78296bfd-7dae-47b2-a929-522898934c95"
-      (reference "R9") (unit 1) (value "49R9") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R9") (unit 1) (value "49.9") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/f7cecc95-3465-45bb-ba60-c79676c6dc36/ce6e8db2-71c0-459c-9732-d9066281cc00"
       (reference "R10") (unit 1) (value "220k") (footprint "Resistor_SMD:R_0603_1608Metric")
@@ -3152,13 +3170,13 @@
       (reference "R14") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/7510d84d-561c-4c04-9a47-602785bf143f/12c71986-4f53-4e2d-9664-a8aee803e1df"
-      (reference "R15") (unit 1) (value "330R") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R15") (unit 1) (value "330") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/d012d009-33c3-43a4-bbb3-b4f43de9d077/aa25ec82-24c5-4007-bf88-3618f41d050c"
       (reference "R16") (unit 1) (value "1.6k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/7510d84d-561c-4c04-9a47-602785bf143f/73f4c127-9dc3-4218-923d-fb9b2264c584"
-      (reference "R17") (unit 1) (value "330R") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R17") (unit 1) (value "330") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/f7cecc95-3465-45bb-ba60-c79676c6dc36/76568480-0e3e-4309-a409-19d08c78db03"
       (reference "R18") (unit 1) (value "220k") (footprint "Resistor_SMD:R_0603_1608Metric")
@@ -3350,19 +3368,19 @@
       (reference "R80") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/7510d84d-561c-4c04-9a47-602785bf143f/f90c83a6-d734-4d56-8cb2-6d49ab9ad306"
-      (reference "R81") (unit 1) (value "330R") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R81") (unit 1) (value "330") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/7510d84d-561c-4c04-9a47-602785bf143f/bab35a10-57bd-4a83-a97b-079516b39c11"
-      (reference "R82") (unit 1) (value "49R9") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R82") (unit 1) (value "49.9") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/7510d84d-561c-4c04-9a47-602785bf143f/50f0e289-22e0-4bbd-8fb7-15ae11e7b55a"
-      (reference "R83") (unit 1) (value "49R9") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R83") (unit 1) (value "49.9") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/7510d84d-561c-4c04-9a47-602785bf143f/dbfb4d57-f9a8-42cc-b66e-9a4d31ec8ea8"
-      (reference "R84") (unit 1) (value "330R") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R84") (unit 1) (value "330") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/7510d84d-561c-4c04-9a47-602785bf143f/be5d546e-2151-4139-b624-703aff132613"
-      (reference "R85") (unit 1) (value "10R") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R85") (unit 1) (value "10") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/d012d009-33c3-43a4-bbb3-b4f43de9d077/854495c6-28ba-4c90-9ef8-bdfba8483a0e"
       (reference "R86") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric")
