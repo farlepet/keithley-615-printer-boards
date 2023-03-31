@@ -26,16 +26,21 @@ Boards
      - USB-serial
      - RS-232 via DE-9
      - Ethernet
-     - Integrated logging?
 
 Photos
 ------
 
-PC218 v1.0:
-![Rear of PC218 board v1.0](img/PC218_Rev1.0.png)
+PC218 v2.2:
+![Front of PC218 board v2.2](img/PC218_Rev2.2_Front.jpg)
+![Rear of PC218 board v2.2](img/PC218_Rev2.2_Rear.jpg)
 
-PC218 v2.0:
-![Front of PC218 board v2.0](img/PC218_Rev2.0_Front.png)
+PC209 v1.0:
+![Front of PC209 board v1.0](img/PC209_Rev1.0_Front.jpg)
+![Rear of PC209 board v1.0](img/PC209_Rev1.0_Rear.jpg)
 
-![Rear of PC218 board v2.0](img/PC218_Rev2.0_Rear.png)
+Interface/network board v1.0:
+![Interface board v1.0](img/InterfaceBoard_Rev1.0.jpg)
+
+50-pin test board v1.0:
+![50-pin test board v1.0](img/TestBoard_Rev1.0.jpg)
 
