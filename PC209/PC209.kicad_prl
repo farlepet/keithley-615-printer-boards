@@ -3,10 +3,12 @@
     "active_layer": 0,
     "active_layer_preset": "Two Sides",
     "auto_track_width": true,
+    "hidden_netclasses": [],
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
+      "images": 0.6,
       "pads": 0.8399999737739563,
       "tracks": 0.800000011920929,
       "vias": 0.800000011920929,
